@@ -1,0 +1,159 @@
+grêmio	
+ATA
+Luan
+Provável	
+desabilitado
+31	C$ 26.86	-2.20	5.91	-0.90	
+escudo grêmioXescudo atlético-mg
+106	95	7	2	25	26	9	16	0
+sport	
+MEI
+Diego Souza
+Provável	
+desabilitado
+31	C$ 25.09	-1.51	3.82	-0.70	
+escudo sportXescudo corinthians
+44	129	9	0	14	17	8	7	0
+atlético-mg	
+ATA
+Luan
+Provável	
+desabilitado
+24	C$ 24.98	0.62	4.41	13.50	
+escudo grêmioXescudo atlético-mg
+25	98	4	0	7	16	7	11	0
+fluminense	
+ATA
+Fred
+Provável	
+desabilitado
+23	C$ 23.16	0.36	4.99	4.00	
+escudo fluminenseXescudo internacional
+60	59	5	2	13	13	9	10	1
+atlético-pr	
+GOL
+Weverton
+Provável	
+desabilitado
+35	C$ 23.13	2.93	4.30	13.70	
+escudo atlético-prXescudo flamengo
+11	38	0	0	0	0	0	0	0
+atlético-mg	
+ATA
+Lucas Pratto
+Provável	
+desabilitado
+32	C$ 22.84	0.91	5.00	6.90	
+escudo grêmioXescudo atlético-mg
+40	85	3	5	34	30	9	11	0
+corinthians	
+GOL
+Cássio
+Provável	
+desabilitado
+34	C$ 22.72	2.28	5.01	13.70	
+escudo sportXescudo corinthians
+2	18	0	0	0	0	0	0	0
+ponte preta	
+LAT
+Rodinei
+Provável	
+desabilitado
+34	C$ 21.27	-0.19	4.26	1.30	
+escudo avaíXescudo ponte preta
+43	90	4	1	4	7	0	4	0
+ponte preta	
+GOL
+Marcelo Lomba
+Provável	
+desabilitado
+36	C$ 20.27	0.38	5.62	0.70	
+escudo avaíXescudo ponte preta
+5	18	0	0	0	0	0	0	0
+vasco	
+ZAG
+Rodrigo
+Provável	
+desabilitado
+31	C$ 18.65	0.00	5.34	0.00	
+escudo vascoXescudo santos
+43	84	0	0	18	20	4	2	0
+corinthians	
+TEC
+Tite
+Provável	
+desabilitado
+35	C$ 18.42	1.27	4.75	8.45	
+escudo sportXescudo corinthians
+-	-	-	-	-	-	-	-	-
+cruzeiro	
+ATA
+Leandro Damião
+Provável	
+desabilitado
+22	C$ 18.38	-1.31	3.11	0.50	
+escudo cruzeiroXescudo joinville
+26	30	2	1	11	11	4	6	0
+goiás	
+GOL
+Renan
+Provável	
+desabilitado
+33	C$ 18.33	0.91	3.18	0.00	
+escudo chapecoenseXescudo goiás
+4	20	0	0	0	0	0	0	0
+internacional	
+MEI
+D'Alessandro
+Provável	
+desabilitado
+14	C$ 18.18	0.34	0.96	0.90	
+escudo fluminenseXescudo internacional
+36	66	3	0	2	6	0	3	1
+atlético-mg	
+ZAG
+Jemerson
+Provável	
+desabilitado
+31	C$ 18.13	0.81	3.83	7.40	
+escudo grêmioXescudo atlético-mg
+12	53	0	1	4	13	4	3	0
+cruzeiro	
+ATA
+Willian
+Provável	
+desabilitado
+27	C$ 17.70	-0.17	5.71	6.30	
+escudo cruzeiroXescudo joinville
+48	67	3	1	20	25	10	16	1
+goiás	
+ATA
+Bruno Henrique
+Provável	
+desabilitado
+31	C$ 17.17	3.05	4.74	19.00	
+escudo chapecoenseXescudo goiás
+79	75	7	0	24	27	7	14	0
+grêmio	
+GOL
+Marcelo Grohe
+Provável	
+desabilitado
+22	C$ 16.78	-0.30	3.95	3.10	
+escudo grêmioXescudo atlético-mg
+5	22	0	0	0	0	0	0	0
+fluminense	
+ZAG
+Marlon
+Provável	
+desabilitado
+23	C$ 16.21	0.78	2.40	4.30	
+escudo fluminenseXescudo internacional
+16	27	1	0	2	3	0	3	0
+palmeiras	
+LAT
+Egídio
+Provável	
+desabilitado
+29	C$ 16.16	1.77	4.76	11.80	
+escudo palmeirasXescudo coritiba

@@ -1,0 +1,87 @@
+avaí	
+ZAG
+Antonio Carlos
+Provável	
+desabilitado
+6	C$ 2.08	-0.45	-0.03	1.10	
+escudo avaíXescudo grêmio
+4	12	0	0	1	1	0	0	0
+joinville	
+ZAG
+Danrlei
+Provável	
+desabilitado
+0	C$ 2.00	0.00	0.00	0.00	
+escudo atlético-mgXescudo joinville
+0	0	0	0	0	0	0	0	0
+grêmio	
+LAT
+Lucas Ramon
+Provável	
+desabilitado
+1	C$ 1.84	0.00	0.50	0.00	
+escudo avaíXescudo grêmio
+1	0	0	0	0	0	0	0	0
+figueirense	
+MEI
+Dener
+Provável	
+desabilitado
+3	C$ 1.68	0.00	-0.03	0.00	
+escudo corinthiansXescudo figueirense
+1	12	0	0	0	1	0	0	0
+avaí	
+ATA
+Romulo
+Provável	
+desabilitado
+4	C$ 1.64	-0.17	1.22	1.50	
+escudo avaíXescudo grêmio
+2	2	0	0	1	0	1	0	0
+goiás	
+MEI
+William Kozlowski
+Provável	
+desabilitado
+5	C$ 1.33	0.16	-0.08	1.70	
+escudo goiásXescudo fluminense
+3	1	0	0	0	1	0	0	0
+joinville	
+GOL
+Agenor
+Provável	
+desabilitado
+2	C$ 1.25	-0.18	-3.45	-2.90	
+escudo atlético-mgXescudo joinville
+0	3	0	0	0	0	0	0	0
+palmeiras	
+ZAG
+Victor Ramos
+Provável	
+desabilitado
+5	C$ 1.18	-0.28	-1.26	-0.80	
+escudo palmeirasXescudo são paulo
+4	11	0	0	0	2	0	1	0
+coritiba	
+LAT
+Henrique
+Provável	
+desabilitado
+4	C$ 0.83	0.01	-1.25	0.30	
+escudo coritibaXescudo cruzeiro
+1	18	0	0	1	0	0	0	0
+joinville	
+MEI
+Naldo
+Provável	
+desabilitado
+6	C$ 0.83	0.01	-1.12	-0.90	
+escudo atlético-mgXescudo joinville
+1	10	0	0	0	0	0	0	0
+avaí	
+LAT
+Eltinho
+Provável	
+desabilitado
+3	C$ 0.83	0.04	-2.17	-2.30	
+escudo avaíXescudo grêmio

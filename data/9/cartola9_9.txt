@@ -1,0 +1,159 @@
+coritiba	
+MEI
+Ruy
+Provável	
+desabilitado
+7	C$ 6.14	0.00	1.93	0.00	
+escudo atlético-mgXescudo coritiba
+14	34	1	0	5	3	1	0	0
+grêmio	
+ZAG
+Pedro Geromel
+Provável	
+desabilitado
+8	C$ 5.86	-0.35	1.23	1.50	
+escudo grêmioXescudo cruzeiro
+9	16	0	0	0	1	0	2	0
+figueirense	
+LAT
+Leandro Silva
+Provável	
+desabilitado
+6	C$ 5.82	0.70	2.03	2.00	
+escudo figueirenseXescudo goiás
+4	25	0	0	0	2	0	0	0
+coritiba	
+LAT
+Norberto
+Provável	
+desabilitado
+7	C$ 5.77	0.00	1.03	0.00	
+escudo atlético-mgXescudo coritiba
+12	13	1	0	1	0	0	2	0
+fluminense	
+MEI
+Wagner
+Provável	
+desabilitado
+8	C$ 5.72	0.81	0.27	4.60	
+escudo fluminenseXescudo santos
+10	35	0	0	1	3	1	0	0
+coritiba	
+ATA
+Kleber
+Provável	
+desabilitado
+1	C$ 5.66	-1.34	-0.70	-0.70	
+escudo atlético-mgXescudo coritiba
+2	4	0	0	0	0	0	0	0
+joinville	
+TEC
+Adilson Batista
+Provável	
+desabilitado
+4	C$ 5.59	-0.42	2.03	0.82	
+escudo joinvilleXescudo flamengo
+-	-	-	-	-	-	-	-	-
+avaí	
+TEC
+Gilson Kleina
+Provável	
+desabilitado
+9	C$ 5.41	0.06	1.88	0.91	
+escudo vascoXescudo avaí
+-	-	-	-	-	-	-	-	-
+sport	
+LAT
+Renê
+Provável	
+vender jogador
+9	C$ 5.32	-0.03	3.19	0.60	
+escudo sportXescudo internacional
+5	42	2	0	2	0	0	0	0
+internacional	
+LAT
+William
+Provável	
+desabilitado
+4	C$ 5.28	0.69	6.12	4.30	
+escudo sportXescudo internacional
+6	11	0	0	0	0	0	0	0
+palmeiras	
+ZAG
+Victor Ramos
+Provável	
+desabilitado
+6	C$ 5.09	3.91	1.60	15.90	
+escudo palmeirasXescudo chapecoense
+4	13	0	1	0	2	1	1	0
+internacional	
+MEI
+Rodrigo Dourado
+Provável	
+desabilitado
+4	C$ 5.08	0.02	3.40	1.40	
+escudo sportXescudo internacional
+2	8	1	0	0	2	0	1	0
+joinville	
+ZAG
+Douglas Silva
+Provável	
+desabilitado
+2	C$ 5.05	0.01	0.40	0.60	
+escudo joinvilleXescudo flamengo
+3	3	0	0	0	0	0	0	0
+sport	
+ATA
+André
+Provável	
+desabilitado
+3	C$ 5.04	-2.42	4.10	-1.10	
+escudo sportXescudo internacional
+2	6	0	1	0	1	1	2	0
+santos	
+MEI
+Leandrinho
+Provável	
+desabilitado
+2	C$ 5.01	0.00	3.70	0.00	
+escudo fluminenseXescudo santos
+2	2	0	0	0	0	0	0	0
+grêmio	
+ATA
+Pedro Rocha
+Provável	
+desabilitado
+8	C$ 4.90	2.45	2.54	10.10	
+escudo grêmioXescudo cruzeiro
+6	15	1	0	4	5	1	7	0
+goiás	
+LAT
+Diogo Barbosa
+Provável	
+desabilitado
+4	C$ 4.85	0.00	2.20	0.00	
+escudo figueirenseXescudo goiás
+6	12	0	0	0	2	0	1	0
+chapecoense	
+ZAG
+Neto
+Provável	
+desabilitado
+4	C$ 4.74	-0.12	1.37	2.70	
+escudo palmeirasXescudo chapecoense
+1	7	0	0	1	0	0	0	0
+cruzeiro	
+ZAG
+Bruno Rodrigo
+Provável	
+desabilitado
+7	C$ 4.62	0.00	0.24	0.00	
+escudo grêmioXescudo cruzeiro
+3	11	0	0	0	1	0	0	0
+palmeiras	
+MEI
+Arouca
+Provável	
+desabilitado
+6	C$ 4.56	0.71	0.98	2.30	
+escudo palmeirasXescudo chapecoense

@@ -1,0 +1,159 @@
+grêmio	
+MEI
+Maicon
+Provável	
+desabilitado
+7	C$ 4.11	0.49	-0.22	2.20	
+escudo grêmioXescudo palmeiras
+4	23	0	0	2	1	0	0	0
+sport	
+MEI
+Neto Moura
+Provável	
+desabilitado
+5	C$ 4.02	0.97	2.00	3.30	
+escudo sportXescudo vasco
+4	13	0	0	1	4	1	0	0
+santos	
+LAT
+Daniel Guedes
+Provável	
+desabilitado
+3	C$ 4.01	0.00	2.80	0.00	
+escudo santosXescudo corinthians
+1	10	1	0	0	1	0	0	0
+goiás	
+LAT
+Clayton Sales
+Provável	
+desabilitado
+1	C$ 3.99	0.99	5.90	5.90	
+escudo joinvilleXescudo goiás
+2	4	0	0	0	0	0	0	0
+cruzeiro	
+ATA
+Allano
+Provável	
+desabilitado
+3	C$ 3.99	0.87	2.83	4.20	
+escudo cruzeiroXescudo chapecoense
+4	4	0	0	0	0	0	1	0
+avaí	
+LAT
+Nino Paraíba
+Provável	
+desabilitado
+6	C$ 3.82	-1.78	1.32	-3.60	
+escudo são pauloXescudo avaí
+10	24	0	0	1	0	0	1	0
+grêmio	
+GOL
+Tiago
+Provável	
+desabilitado
+3	C$ 3.82	-0.04	3.13	1.00	
+escudo grêmioXescudo palmeiras
+0	2	0	0	0	0	0	0	0
+vasco	
+LAT
+Julio Cesar
+Provável	
+desabilitado
+2	C$ 3.51	0.33	0.55	1.40	
+escudo sportXescudo vasco
+2	2	0	0	0	0	0	1	0
+grêmio	
+ATA
+Pedro Rocha
+Provável	
+desabilitado
+6	C$ 3.09	0.90	1.77	3.60	
+escudo grêmioXescudo palmeiras
+5	12	1	0	4	3	0	5	0
+atlético-pr	
+ATA
+Ytalo
+Provável	
+desabilitado
+4	C$ 2.73	-1.29	1.50	-0.40	
+escudo atlético-prXescudo coritiba
+1	2	0	0	0	2	1	0	0
+avaí	
+ZAG
+Emerson
+Provável	
+desabilitado
+4	C$ 2.70	-1.12	2.25	2.00	
+escudo são pauloXescudo avaí
+4	7	0	0	0	3	0	0	0
+chapecoense	
+ZAG
+Vilson
+Provável	
+desabilitado
+6	C$ 2.60	0.00	0.28	0.00	
+escudo cruzeiroXescudo chapecoense
+4	14	0	0	0	0	0	0	0
+avaí	
+ZAG
+Antônio Carlos
+Provável	
+desabilitado
+5	C$ 2.53	0.00	-0.26	0.00	
+escudo são pauloXescudo avaí
+4	10	0	0	1	1	0	0	0
+coritiba	
+GOL
+Bruno
+Provável	
+desabilitado
+7	C$ 2.49	0.02	-0.01	-2.00	
+escudo atlético-prXescudo coritiba
+1	2	0	0	0	0	0	0	0
+avaí	
+LAT
+Romário
+Provável	
+desabilitado
+6	C$ 2.40	-1.35	1.18	-2.50	
+escudo são pauloXescudo avaí
+4	24	0	0	0	0	0	0	0
+cruzeiro	
+MEI
+Eurico
+Provável	
+desabilitado
+2	C$ 2.16	0.00	-0.05	0.00	
+escudo cruzeiroXescudo chapecoense
+4	2	0	0	0	0	0	0	0
+joinville	
+ZAG
+Dankler
+Provável	
+desabilitado
+3	C$ 2.16	0.09	0.43	0.80	
+escudo joinvilleXescudo goiás
+0	6	0	0	1	1	0	0	0
+cruzeiro	
+LAT
+Pará
+Provável	
+desabilitado
+5	C$ 2.14	-1.08	1.50	-3.80	
+escudo cruzeiroXescudo chapecoense
+10	19	0	0	0	1	0	0	0
+joinville	
+LAT
+Diego
+Provável	
+desabilitado
+1	C$ 2.08	0.08	1.60	1.60	
+escudo joinvilleXescudo goiás
+1	5	0	0	1	2	0	1	0
+palmeiras	
+ZAG
+Victor Ramos
+Provável	
+desabilitado
+4	C$ 1.46	0.43	-1.37	0.30	
+escudo grêmioXescudo palmeiras

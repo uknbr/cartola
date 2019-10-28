@@ -1,0 +1,281 @@
+
+***************** cartola_files.sh [2015-12-22 00:25:01] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_26.txt)
+[+] Processing files
+[+] Generating CSV (round26.csv)
+[+] Generating SQL (round26.sql)
+[*] ------> Summary <------
+[*] Detected round: 26
+[*] Detected date: 2015-09-18
+[*] Detected teams: 0
+[*] Detected players: 10
+[*] Detected scouts: 226
+[*] Detected matches: 17
+[*] Detected statistics: 223
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 00:25:28] *****************
+
+***************** cartola_db.sh [2015-12-22 00:25:29] *****************
+[+] LOG: ../log/round26.log
+[+] SQL: ../output/round26.sql
+[+] TYPE: player
+[+] LINES: 10
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (638 lines)
+***************** cartola_db.sh [2015-12-22 00:25:38] *****************
+
+***************** cartola_files.sh [2015-12-22 00:25:39] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_26.txt)
+[+] Processing files
+[+] Generating CSV (round26.csv)
+[+] Generating SQL (round26.sql)
+[*] ------> Summary <------
+[*] Detected round: 26
+[*] Detected date: 2015-09-18
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 226
+[*] Detected matches: 17
+[*] Detected statistics: 226
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 00:26:06] *****************
+
+***************** cartola_db.sh [2015-12-22 00:26:07] *****************
+[+] LOG: ../log/round26.log
+[+] SQL: ../output/round26.sql
+[+] TYPE: match
+[+] LINES: 17
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+ERROR 1452 (23000) at line 1: Cannot add or update a child row: a foreign key constraint fails (`cartolatmp`.`match`, CONSTRAINT `match_ibfk_5` FOREIGN KEY (`team_id_away`) REFERENCES `team` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+[!] There is a problem to insert data
+***************** cartola_db.sh [2015-12-22 00:26:11] *****************
+
+***************** cartola_files.sh [2015-12-22 20:43:44] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_26.txt)
+[+] Processing files
+[+] Generating CSV (round26.csv)
+[+] Generating SQL (round26.sql)
+[*] ------> Summary <------
+[*] Detected round: 26
+[*] Detected date: 2015-12-22
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 226
+[*] Detected matches: 10
+[*] Detected statistics: 226
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 20:44:12] *****************
+
+***************** cartola_files.sh [2015-12-22 20:52:51] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_26.txt)
+[+] Processing files
+[+] Generating CSV (round26.csv)
+[+] Generating SQL (round26.sql)
+[*] ------> Summary <------
+[*] Detected round: 26
+[*] Detected date: 2015-12-22
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 226
+[*] Detected matches: 10
+[*] Detected statistics: 226
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 20:53:18] *****************
+
+***************** cartola_files.sh [2015-12-22 21:31:16] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_26.txt)
+[+] Processing files
+[+] Generating CSV (round26.csv)
+[+] Generating SQL (round26.sql)
+[*] ------> Summary <------
+[*] Detected round: 26
+[*] Detected date: 2015-12-22
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 226
+[*] Detected matches: 10
+[*] Detected statistics: 226
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 21:31:43] *****************
+
+***************** cartola_files.sh [2015-12-22 21:32:51] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_26.txt)
+[+] Processing files
+[+] Generating CSV (round26.csv)
+[+] Generating SQL (round26.sql)
+[*] ------> Summary <------
+[*] Detected round: 26
+[*] Detected date: 2015-12-22
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 226
+[*] Detected matches: 10
+[*] Detected statistics: 226
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 21:33:18] *****************
+
+***************** cartola_files.sh [2015-12-22 21:33:19] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_26.txt)
+[+] Processing files
+[+] Generating CSV (round26.csv)
+[+] Generating SQL (round26.sql)
+[*] ------> Summary <------
+[*] Detected round: 26
+[*] Detected date: 2015-12-22
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 226
+[*] Detected matches: 10
+[*] Detected statistics: 226
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 21:33:45] *****************
+
+***************** cartola_db.sh [2015-12-22 21:33:46] *****************
+[+] LOG: ../log/round26.log
+[+] SQL: ../output/round26.sql
+[+] TYPE: match
+[+] LINES: 10
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (236 lines)
+***************** cartola_db.sh [2015-12-22 21:33:52] *****************
+
+***************** cartola_db.sh [2015-12-22 21:33:53] *****************
+[+] LOG: ../log/round26.log
+[+] SQL: ../output/round26.sql
+[+] TYPE: round
+[+] LINES: 226
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (5336 lines)
+***************** cartola_db.sh [2015-12-22 21:34:52] *****************
+
+***************** cartola_db.sh [2015-12-22 21:34:53] *****************
+[+] LOG: ../log/round26.log
+[+] SQL: ../output/round26.sql
+[+] TYPE: stat
+[+] LINES: 226
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (5336 lines)
+***************** cartola_db.sh [2015-12-22 21:35:54] *****************
+
+***************** cartola_db.sh [2015-12-22 21:35:55] *****************
+[+] LOG: ../log/round26.log
+[+] SQL: ../output/round26.sql
+[+] TYPE: score
+[!] Pattern: 'score' was not found
+***************** cartola_db.sh [2015-12-22 21:35:55] *****************
+
+***************** cartola_files.sh [2015-12-22 21:59:29] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_26.txt)
+[+] Processing files
+[+] Generating CSV (round26.csv)
+[+] Generating SQL (round26.sql)
+[*] ------> Summary <------
+[*] Detected round: 26
+[*] Detected date: 2015-12-22
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 226
+[*] Detected matches: 10
+[*] Detected statistics: 226
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 21:59:56] *****************
+
+***************** cartola_db.sh [2015-12-22 21:59:57] *****************
+[+] LOG: ../log/round26.log
+[+] SQL: ../output/round26.sql
+[+] TYPE: score
+[!] Pattern: 'score' was not found
+***************** cartola_db.sh [2015-12-22 21:59:57] *****************
+
+***************** cartola_files.sh [2015-12-22 22:02:00] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_26.txt)
+[+] Processing files
+[+] Generating CSV (round26.csv)
+[+] Generating SQL (round26.sql)
+[*] ------> Summary <------
+[*] Detected round: 26
+[*] Detected date: 2015-12-22
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 226
+[*] Detected matches: 10
+[*] Detected statistics: 226
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 22:02:29] *****************
+
+***************** cartola_db.sh [2015-12-22 22:02:30] *****************
+[+] LOG: ../log/round26.log
+[+] SQL: ../output/round26.sql
+[+] TYPE: score
+[+] LINES: 10
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[!] Missing lines
+***************** cartola_db.sh [2015-12-22 22:02:50] *****************
+
+***************** cartola_files.sh [2015-12-22 22:11:13] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_26.txt)
+[+] Processing files
+[+] Generating CSV (round26.csv)
+[+] Generating SQL (round26.sql)
+[*] ------> Summary <------
+[*] Detected round: 26
+[*] Detected date: 2015-12-22
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 226
+[*] Detected matches: 10
+[*] Detected statistics: 226
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 22:11:42] *****************

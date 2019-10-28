@@ -1,0 +1,39 @@
+santos	
+ZAG
+Gustavo Henrique
+Provável	
+desabilitado
+7	C$ 2.30	1.21	2.57	5.80	
+escudo santosXescudo chapecoense
+4	14	0	0	1	2	0	0	0
+joinville	
+MEI
+Naldo
+Provável	
+desabilitado
+17	C$ 1.83	-0.49	1.45	-0.30	
+escudo joinvilleXescudo são paulo
+5	38	1	1	1	5	0	1	0
+figueirense	
+ZAG
+Bruno Alves
+Provável	
+desabilitado
+11	C$ 1.68	-1.43	1.40	1.40	
+escudo figueirenseXescudo grêmio
+4	13	0	0	1	4	1	0	0
+atlético-mg	
+LAT
+Pedro Botelho
+Provável	
+desabilitado
+4	C$ 1.32	0.00	1.15	0.00	
+escudo atlético-mgXescudo atlético-pr
+3	10	0	0	0	1	0	0	0
+vasco	
+GOL
+Charles
+Provável	
+desabilitado
+10	C$ 0.82	0.00	-0.29	0.00	
+escudo internacionalXescudo vasco

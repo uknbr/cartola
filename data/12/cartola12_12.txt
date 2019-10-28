@@ -1,0 +1,63 @@
+avaí	
+MEI
+Eduardo Neto
+Provável	
+desabilitado
+9	C$ 2.63	0.00	0.71	0.00	
+escudo avaíXescudo chapecoense
+8	24	1	0	3	4	0	0	0
+avaí	
+ZAG
+Jéci
+Provável	
+desabilitado
+9	C$ 2.54	0.43	0.09	0.80	
+escudo avaíXescudo chapecoense
+7	19	0	0	3	3	0	0	0
+avaí	
+ATA
+Romulo
+Provável	
+desabilitado
+8	C$ 2.13	0.33	1.59	1.80	
+escudo avaíXescudo chapecoense
+6	8	0	0	2	3	1	1	0
+flamengo	
+ZAG
+Marcelo
+Provável	
+desabilitado
+4	C$ 2.11	-0.53	1.22	-1.20	
+escudo flamengoXescudo corinthians
+2	12	0	0	0	0	0	1	0
+joinville	
+MEI
+Fabrício
+Provável	
+desabilitado
+3	C$ 1.98	-1.73	-0.83	-4.40	
+escudo joinvilleXescudo internacional
+3	4	0	0	0	0	0	0	0
+santos	
+ZAG
+Paulo Ricardo
+Provável	
+desabilitado
+2	C$ 1.51	0.00	1.95	0.00	
+escudo santosXescudo figueirense
+0	4	0	0	0	0	0	0	0
+santos	
+MEI
+Thiago Maia
+Provável	
+desabilitado
+7	C$ 1.38	-0.08	0.81	1.90	
+escudo santosXescudo figueirense
+3	11	0	0	0	2	0	0	0
+vasco	
+GOL
+Charles
+Provável	
+desabilitado
+8	C$ 0.81	-0.08	0.14	-2.00	
+escudo grêmioXescudo vasco

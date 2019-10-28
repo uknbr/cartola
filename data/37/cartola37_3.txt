@@ -1,0 +1,159 @@
+vasco	
+ZAG
+Luan
+Provável	
+desabilitado
+23	C$ 12.99	0.00	2.04	0.00	
+escudo coritibaXescudo vasco
+28	70	0	0	2	2	0	2	0
+sport	
+GOL
+Danilo Fernandes
+Provável	
+vender jogador
+34	C$ 12.74	-0.40	5.63	4.90	
+escudo ponte pretaXescudo sport
+6	24	0	0	0	0	0	0	0
+são paulo	
+TEC
+Milton Cruz
+Provável	
+desabilitado
+8	C$ 12.72	0.33	4.29	4.44	
+escudo goiásXescudo são paulo
+-	-	-	-	-	-	-	-	-
+são paulo	
+MEI
+Michel Bastos
+Provável	
+desabilitado
+29	C$ 12.57	-0.30	2.33	0.00	
+escudo goiásXescudo são paulo
+12	119	0	1	8	32	7	14	0
+chapecoense	
+MEI
+Camilo
+Provável	
+vender jogador
+30	C$ 12.57	0.38	2.51	3.80	
+escudo atlético-mgXescudo chapecoense
+39	96	3	1	8	21	3	11	0
+atlético-pr	
+MEI
+Nikão
+Provável	
+desabilitado
+31	C$ 12.51	2.04	3.15	12.10	
+escudo santosXescudo atlético-pr
+48	76	7	1	7	4	4	6	0
+atlético-pr	
+MEI
+Otávio
+Provável	
+desabilitado
+31	C$ 12.43	0.57	4.62	7.40	
+escudo santosXescudo atlético-pr
+35	65	1	0	9	14	0	0	0
+grêmio	
+TEC
+Roger Machado
+Provável	
+desabilitado
+34	C$ 12.36	0.52	3.42	3.72	
+escudo joinvilleXescudo grêmio
+-	-	-	-	-	-	-	-	-
+corinthians	
+LAT
+Fagner
+Provável	
+desabilitado
+24	C$ 12.26	-0.77	4.58	2.30	
+escudo corinthiansXescudo avaí
+20	75	2	0	1	4	0	2	0
+chapecoense	
+TEC
+Guto Ferreira
+Provável	
+desabilitado
+27	C$ 12.24	-0.56	3.68	0.43	
+escudo atlético-mgXescudo chapecoense
+-	-	-	-	-	-	-	-	-
+corinthians	
+ATA
+Vagner Love
+Provável	
+desabilitado
+29	C$ 12.16	-0.98	5.42	3.60	
+escudo corinthiansXescudo avaí
+54	56	2	0	14	17	13	13	0
+coritiba	
+ATA
+Henrique Almeida
+Provável	
+desabilitado
+19	C$ 12.16	-0.12	6.51	8.00	
+escudo coritibaXescudo vasco
+31	35	1	1	16	17	12	12	0
+corinthians	
+LAT
+Uendel
+Provável	
+desabilitado
+17	C$ 12.15	0.24	5.80	0.40	
+escudo corinthiansXescudo avaí
+3	30	4	0	0	1	2	1	0
+corinthians	
+MEI
+Ralf
+Provável	
+desabilitado
+29	C$ 12.01	0.00	2.94	0.00	
+escudo corinthiansXescudo avaí
+33	48	1	0	2	1	1	0	0
+vasco	
+LAT
+Madson
+Provável	
+desabilitado
+32	C$ 11.93	1.37	1.69	5.90	
+escudo coritibaXescudo vasco
+51	109	1	0	1	3	0	4	0
+ponte preta	
+LAT
+Gilson
+Provável	
+desabilitado
+31	C$ 11.91	-0.54	2.65	-4.40	
+escudo ponte pretaXescudo sport
+43	97	2	0	3	5	0	6	0
+atlético-mg	
+ATA
+Thiago Ribeiro
+Provável	
+desabilitado
+30	C$ 11.80	0.00	2.98	0.00	
+escudo atlético-mgXescudo chapecoense
+23	80	2	0	12	19	8	9	0
+palmeiras	
+TEC
+Marcelo Oliveira
+Provável	
+desabilitado
+34	C$ 11.76	-0.46	3.26	0.33	
+escudo flamengoXescudo palmeiras
+-	-	-	-	-	-	-	-	-
+figueirense	
+GOL
+Alex Muralha
+Provável	
+desabilitado
+33	C$ 11.73	-0.93	3.22	-0.60	
+escudo figueirenseXescudo fluminense
+3	15	0	0	0	0	0	0	0
+fluminense	
+TEC
+Eduardo Baptista
+Provável	
+desabilitado
+37	C$ 11.68	-0.47	3.16	0.68	
+escudo figueirenseXescudo fluminense

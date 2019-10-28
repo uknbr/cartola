@@ -1,0 +1,159 @@
+atlético-mg	
+ZAG
+Leonardo Silva
+Provável	
+desabilitado
+15	C$ 12.50	0.00	4.13	0.00	
+escudo fluminenseXescudo atlético-mg
+16	42	1	0	3	5	1	3	0
+chapecoense	
+ATA
+Ananias
+Provável	
+desabilitado
+15	C$ 12.44	0.69	2.77	4.20	
+escudo chapecoenseXescudo corinthians
+29	28	1	0	5	4	1	1	0
+são paulo	
+MEI
+Ganso
+Provável	
+desabilitado
+15	C$ 12.39	0.00	1.45	0.00	
+escudo são pauloXescudo ponte preta
+26	55	2	0	3	8	0	6	0
+corinthians	
+ATA
+Vagner Love
+Provável	
+desabilitado
+13	C$ 12.33	2.37	4.62	16.00	
+escudo chapecoenseXescudo corinthians
+19	24	1	0	4	5	5	6	0
+sport	
+ZAG
+Durval
+Provável	
+desabilitado
+20	C$ 12.19	0.36	2.41	1.60	
+escudo sportXescudo flamengo
+7	57	0	0	3	1	0	4	0
+santos	
+MEI
+Lucas Lima
+Provável	
+desabilitado
+17	C$ 12.12	2.16	3.81	10.70	
+escudo cruzeiroXescudo santos
+42	95	4	0	3	2	3	0	0
+atlético-mg	
+ATA
+Thiago Ribeiro
+Provável	
+desabilitado
+16	C$ 12.08	-0.27	3.58	-0.30	
+escudo fluminenseXescudo atlético-mg
+11	55	1	0	8	14	6	7	0
+vasco	
+LAT
+Madson
+Provável	
+desabilitado
+19	C$ 11.90	0.40	1.66	3.10	
+escudo vascoXescudo figueirense
+28	65	1	0	1	1	0	3	0
+ponte preta	
+ATA
+Diego Oliveira
+Provável	
+desabilitado
+18	C$ 11.87	1.60	2.17	6.60	
+escudo são pauloXescudo ponte preta
+24	31	0	1	6	10	2	2	0
+goiás	
+ZAG
+Felipe Macedo
+Provável	
+vender jogador
+19	C$ 11.84	-0.08	3.27	8.00	
+escudo atlético-prXescudo goiás
+14	34	0	0	1	2	0	0	0
+são paulo	
+LAT
+Carlinhos
+Provável	
+desabilitado
+11	C$ 11.81	1.40	4.65	9.90	
+escudo são pauloXescudo ponte preta
+21	37	2	0	4	3	0	4	0
+sport	
+TEC
+Eduardo Baptista
+Provável	
+desabilitado
+20	C$ 11.78	-0.20	3.80	1.67	
+escudo sportXescudo flamengo
+-	-	-	-	-	-	-	-	-
+atlético-pr	
+TEC
+Milton Mendes
+Provável	
+desabilitado
+20	C$ 11.73	-0.61	3.32	0.75	
+escudo atlético-prXescudo goiás
+-	-	-	-	-	-	-	-	-
+cruzeiro	
+GOL
+Fábio
+Provável	
+desabilitado
+19	C$ 11.72	-3.07	3.81	-6.00	
+escudo cruzeiroXescudo santos
+4	6	0	0	0	0	0	0	0
+flamengo	
+ATA
+Emerson
+Provável	
+desabilitado
+14	C$ 11.70	-1.30	4.51	4.90	
+escudo sportXescudo flamengo
+46	48	1	2	5	16	3	3	0
+palmeiras	
+TEC
+Marcelo Oliveira
+Provável	
+desabilitado
+17	C$ 11.70	-0.64	3.78	1.70	
+escudo palmeirasXescudo joinville
+-	-	-	-	-	-	-	-	-
+corinthians	
+MEI
+Renato Augusto
+Provável	
+desabilitado
+15	C$ 11.65	0.49	1.64	4.40	
+escudo chapecoenseXescudo corinthians
+17	74	2	1	10	9	0	3	0
+grêmio	
+TEC
+Roger Machado
+Provável	
+desabilitado
+17	C$ 11.64	-0.11	3.56	2.55	
+escudo grêmioXescudo coritiba
+-	-	-	-	-	-	-	-	-
+chapecoense	
+MEI
+Elicarlos
+Provável	
+desabilitado
+19	C$ 11.44	0.00	1.95	0.00	
+escudo chapecoenseXescudo corinthians
+26	39	0	0	0	2	1	0	0
+cruzeiro	
+ATA
+Marquinhos
+Provável	
+desabilitado
+13	C$ 11.37	-0.24	3.20	1.10	
+escudo cruzeiroXescudo santos

@@ -1,0 +1,159 @@
+sport	
+MEI
+Diego Souza
+Provável	
+desabilitado
+4	C$ 31.39	-1.20	6.48	0.50	
+escudo sportXescudo goiás
+6	8	0	0	2	1	3	1	0
+ponte preta	
+MEI
+Renato Cajá
+Provável	
+desabilitado
+4	C$ 30.25	3.42	11.00	14.90	
+escudo vascoXescudo ponte preta
+2	18	1	1	7	5	3	2	0
+palmeiras	
+LAT
+Zé Roberto
+Provável	
+desabilitado
+4	C$ 30.22	6.07	9.18	22.30	
+escudo palmeirasXescudo internacional
+5	8	1	0	3	1	1	0	0
+atlético-mg	
+ATA
+Luan
+Provável	
+desabilitado
+3	C$ 29.35	1.43	11.47	9.90	
+escudo avaíXescudo atlético-mg
+3	14	2	0	2	2	1	1	0
+grêmio	
+ATA
+Luan
+Provável	
+desabilitado
+4	C$ 27.95	-1.54	5.17	0.80	
+escudo grêmioXescudo corinthians
+15	17	2	1	3	1	0	1	0
+fluminense	
+ATA
+Fred
+Provável	
+desabilitado
+4	C$ 27.67	4.07	7.03	16.20	
+escudo fluminenseXescudo coritiba
+9	5	0	0	3	3	3	0	0
+são paulo	
+GOL
+Rogério Ceni
+Provável	
+desabilitado
+4	C$ 27.18	1.60	7.95	11.00	
+escudo são pauloXescudo santos
+0	4	0	0	0	0	0	0	0
+flamengo	
+MEI
+Everton
+Provável	
+desabilitado
+4	C$ 24.01	-0.38	4.50	1.00	
+escudo cruzeiroXescudo flamengo
+8	12	0	0	3	3	2	9	0
+corinthians	
+GOL
+Cássio
+Provável	
+desabilitado
+4	C$ 23.36	0.23	9.20	8.00	
+escudo grêmioXescudo corinthians
+0	4	0	0	0	0	0	0	0
+goiás	
+GOL
+Renan
+Provável	
+desabilitado
+4	C$ 23.27	-0.55	10.85	7.20	
+escudo sportXescudo goiás
+2	2	0	0	0	0	0	0	0
+atlético-mg	
+ATA
+Lucas Pratto
+Provável	
+desabilitado
+3	C$ 22.79	1.26	5.17	8.60	
+escudo avaíXescudo atlético-mg
+2	9	1	1	5	4	0	1	0
+atlético-pr	
+GOL
+Weverton
+Provável	
+desabilitado
+4	C$ 22.77	-1.53	6.27	1.60	
+escudo atlético-prXescudo figueirense
+6	3	0	0	0	0	0	0	0
+ponte preta	
+LAT
+Rodinei
+Provável	
+desabilitado
+4	C$ 21.87	0.42	8.25	3.80	
+escudo vascoXescudo ponte preta
+8	8	3	0	1	1	0	1	0
+cruzeiro	
+ATA
+Leandro Damião
+Provável	
+desabilitado
+1	C$ 21.83	-4.17	2.20	2.20	
+escudo cruzeiroXescudo flamengo
+3	2	0	0	0	3	0	0	0
+fluminense	
+MEI
+Edson
+Provável	
+desabilitado
+4	C$ 21.73	-0.72	4.40	1.30	
+escudo fluminenseXescudo coritiba
+7	11	0	1	1	2	0	1	0
+coritiba	
+ATA
+Rafhael Lucas
+Provável	
+desabilitado
+4	C$ 20.80	-0.10	3.90	3.40	
+escudo fluminenseXescudo coritiba
+4	7	0	0	4	3	1	3	0
+atlético-mg	
+ZAG
+Jemerson
+Provável	
+desabilitado
+3	C$ 20.35	1.61	9.33	8.40	
+escudo avaíXescudo atlético-mg
+2	1	0	0	1	0	2	0	0
+corinthians	
+ZAG
+Gil
+Provável	
+desabilitado
+3	C$ 19.39	-3.39	3.40	-3.80	
+escudo grêmioXescudo corinthians
+1	3	0	0	0	0	0	1	0
+sport	
+MEI
+Élber
+Provável	
+desabilitado
+4	C$ 19.12	-0.60	5.57	1.50	
+escudo sportXescudo goiás
+11	9	0	0	3	0	1	0	0
+grêmio	
+ATA
+Yuri Mamute
+Provável	
+desabilitado
+4	C$ 19.02	-0.61	5.35	0.70	
+escudo grêmioXescudo corinthians

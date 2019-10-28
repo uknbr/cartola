@@ -1,0 +1,31 @@
+avaí	
+ZAG
+Jéci
+Provável	
+desabilitado
+18	C$ 1.49	0.00	-0.25	0.00	
+escudo avaíXescudo palmeiras
+16	39	0	0	5	5	0	4	0
+chapecoense	
+GOL
+Silvio
+Provável	
+desabilitado
+0	C$ 1.00	0.00	0.00	0.00	
+escudo grêmioXescudo chapecoense
+0	0	0	0	0	0	0	0	0
+palmeiras	
+MEI
+Matheus Sales
+Provável	
+desabilitado
+0	C$ 1.00	0.00	0.00	0.00	
+escudo avaíXescudo palmeiras
+0	0	0	0	0	0	0	0	0
+goiás	
+MEI
+Ygor
+Provável	
+desabilitado
+10	C$ 0.83	0.00	-1.46	-1.00	
+escudo santosXescudo goiás

@@ -1,0 +1,79 @@
+chapecoense	
+MEI
+Wagner
+Provável	
+desabilitado
+2	C$ 2.61	0.09	1.90	1.40	
+escudo chapecoenseXescudo joinville
+2	1	0	0	0	1	0	0	0
+avaí	
+ZAG
+Antônio Carlos
+Provável	
+desabilitado
+3	C$ 2.48	0.00	0.00	0.00	
+escudo avaíXescudo atlético-mg
+3	8	0	0	1	0	0	0	0
+atlético-pr	
+MEI
+Hernani
+Provável	
+desabilitado
+4	C$ 2.02	-1.14	-0.35	-2.60	
+escudo atlético-prXescudo figueirense
+4	8	0	0	0	3	0	1	0
+vasco	
+GOL
+Jordi
+Provável	
+desabilitado
+0	C$ 2.00	0.00	0.00	0.00	
+escudo vascoXescudo ponte preta
+0	0	0	0	0	0	0	0	0
+goiás	
+ATA
+Carlos
+Provável	
+desabilitado
+0	C$ 2.00	0.00	0.00	0.00	
+escudo sportXescudo goiás
+0	0	0	0	0	0	0	0	0
+cruzeiro	
+LAT
+Pará
+Provável	
+desabilitado
+2	C$ 1.82	0.00	0.35	1.40	
+escudo cruzeiroXescudo flamengo
+4	5	0	0	0	0	0	0	0
+chapecoense	
+MEI
+Abuda
+Provável	
+desabilitado
+2	C$ 1.62	0.28	0.25	2.80	
+escudo chapecoenseXescudo joinville
+1	8	0	0	0	0	0	0	0
+avaí	
+LAT
+Romário
+Provável	
+desabilitado
+3	C$ 1.40	-1.14	-0.37	-2.20	
+escudo avaíXescudo atlético-mg
+3	8	0	0	0	0	0	0	0
+joinville	
+MEI
+Naldo
+Provável	
+desabilitado
+3	C$ 0.81	0.00	-2.10	-0.90	
+escudo chapecoenseXescudo joinville
+0	5	0	0	0	0	0	0	0
+flamengo	
+GOL
+Paulo Victor
+Provável	
+desabilitado
+4	C$ 0.81	0.00	-3.52	-6.00	
+escudo cruzeiroXescudo flamengo

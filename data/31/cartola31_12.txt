@@ -1,0 +1,87 @@
+vasco	
+MEI
+Bruno Gallo
+Provável	
+desabilitado
+8	C$ 2.82	1.12	0.99	6.00	
+escudo vascoXescudo grêmio
+7	19	0	0	2	2	0	0	0
+avaí	
+LAT
+Romário
+Provável	
+desabilitado
+26	C$ 2.79	1.06	1.15	-1.50	
+escudo chapecoenseXescudo avaí
+32	84	0	0	2	1	0	0	0
+figueirense	
+MEI
+Yago
+Provável	
+desabilitado
+21	C$ 2.76	-1.38	1.15	-1.20	
+escudo figueirenseXescudo santos
+22	50	4	0	4	3	0	0	0
+santos	
+ZAG
+Paulo Ricardo
+Provável	
+desabilitado
+10	C$ 2.65	-0.06	3.30	0.80	
+escudo figueirenseXescudo santos
+4	20	0	0	1	3	0	0	0
+palmeiras	
+LAT
+João Pedro
+Provável	
+desabilitado
+7	C$ 2.56	-0.61	0.65	-3.10	
+escudo palmeirasXescudo sport
+2	21	0	0	0	0	0	0	0
+chapecoense	
+MEI
+Maranhão
+Provável	
+desabilitado
+18	C$ 2.54	0.41	0.39	1.90	
+escudo chapecoenseXescudo avaí
+12	13	1	0	2	2	0	0	0
+avaí	
+ZAG
+Antonio Carlos
+Provável	
+desabilitado
+22	C$ 2.52	0.00	1.47	0.00	
+escudo chapecoenseXescudo avaí
+19	48	1	0	3	6	0	0	0
+atlético-pr	
+LAT
+Roberto
+Provável	
+desabilitado
+3	C$ 2.30	-0.39	0.47	-1.10	
+escudo fluminenseXescudo atlético-pr
+2	9	0	0	0	1	0	0	0
+fluminense	
+MEI
+Higor Leite
+Provável	
+desabilitado
+6	C$ 1.64	-0.16	1.17	1.80	
+escudo fluminenseXescudo atlético-pr
+7	10	0	0	0	1	0	0	0
+figueirense	
+ZAG
+Bruno Alves
+Provável	
+desabilitado
+19	C$ 1.49	-0.82	0.96	0.40	
+escudo figueirenseXescudo santos
+10	31	0	0	1	7	1	1	0
+grêmio	
+GOL
+Bruno Grassi
+Provável	
+desabilitado
+3	C$ 0.82	-0.85	-0.77	-6.00	
+escudo vascoXescudo grêmio

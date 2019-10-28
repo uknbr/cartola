@@ -1,0 +1,31 @@
+avaí	
+GOL
+Diego
+Provável	
+desabilitado
+2	C$ 2.15	-2.53	3.50	-4.00	
+escudo avaíXescudo corinthians
+0	0	0	0	0	0	0	0	0
+joinville	
+MEI
+Naldo
+Provável	
+desabilitado
+14	C$ 2.14	0.06	1.38	2.60	
+escudo grêmioXescudo joinville
+2	28	0	1	1	3	0	0	0
+avaí	
+ZAG
+Jéci
+Provável	
+desabilitado
+15	C$ 2.07	-1.58	0.17	-1.70	
+escudo avaíXescudo corinthians
+16	35	0	0	4	4	0	2	0
+atlético-mg	
+LAT
+Pedro Botelho
+Provável	
+desabilitado
+3	C$ 1.43	0.00	0.63	0.00	
+escudo chapecoenseXescudo atlético-mg

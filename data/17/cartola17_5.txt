@@ -1,0 +1,159 @@
+chapecoense	
+LAT
+Apodi
+Provável	
+desabilitado
+16	C$ 11.16	-0.28	4.03	3.60	
+escudo goiásXescudo chapecoense
+31	51	0	0	9	6	1	2	0
+são paulo	
+ATA
+Centurión
+Provável	
+desabilitado
+12	C$ 11.10	0.88	2.92	5.90	
+escudo figueirenseXescudo são paulo
+20	21	1	0	7	5	2	9	0
+figueirense	
+GOL
+Alex Muralha
+Provável	
+desabilitado
+14	C$ 11.04	-1.52	3.67	-4.00	
+escudo figueirenseXescudo são paulo
+1	4	0	0	0	0	0	0	0
+avaí	
+ATA
+André Lima
+Provável	
+desabilitado
+12	C$ 11.02	1.03	3.78	7.40	
+escudo ponte pretaXescudo avaí
+15	24	2	0	2	6	4	1	0
+sport	
+GOL
+Danilo Fernandes
+Provável	
+desabilitado
+15	C$ 10.86	-0.99	5.73	3.70	
+escudo corinthiansXescudo sport
+2	10	0	0	0	0	0	0	0
+atlético-pr	
+MEI
+Nikão
+Provável	
+desabilitado
+16	C$ 10.86	-1.50	3.85	0.60	
+escudo flamengoXescudo atlético-pr
+19	37	3	1	3	2	4	3	0
+chapecoense	
+LAT
+Dener Assunção
+Provável	
+desabilitado
+16	C$ 10.84	-0.48	4.68	1.40	
+escudo goiásXescudo chapecoense
+22	70	1	1	2	5	0	2	0
+santos	
+ZAG
+David Braz
+Provável	
+vender jogador
+14	C$ 10.74	0.33	2.84	5.50	
+escudo santosXescudo vasco
+5	63	0	0	0	4	1	2	0
+atlético-mg	
+MEI
+Guilherme
+Provável	
+desabilitado
+6	C$ 10.70	-0.50	-1.30	-2.40	
+escudo atlético-mgXescudo grêmio
+2	19	0	0	0	1	0	2	0
+são paulo	
+ZAG
+Rafael Toloi
+Provável	
+desabilitado
+10	C$ 10.56	-0.99	2.62	0.50	
+escudo figueirenseXescudo são paulo
+5	30	0	0	1	1	0	1	0
+ponte preta	
+ZAG
+Pablo
+Provável	
+desabilitado
+15	C$ 10.55	1.76	3.81	12.30	
+escudo ponte pretaXescudo avaí
+16	25	0	0	2	3	1	1	0
+corinthians	
+ZAG
+Edu Dracena
+Provável	
+desabilitado
+10	C$ 10.47	-0.82	3.05	0.00	
+escudo corinthiansXescudo sport
+1	9	0	0	1	3	0	3	0
+santos	
+MEI
+Lucas Lima
+Provável	
+desabilitado
+14	C$ 10.46	-1.77	3.83	1.60	
+escudo santosXescudo vasco
+31	73	4	0	3	2	2	0	0
+goiás	
+MEI
+Rodrigo
+Provável	
+desabilitado
+17	C$ 10.41	0.35	4.64	5.50	
+escudo goiásXescudo chapecoense
+9	28	1	0	4	3	1	0	0
+santos	
+MEI
+Renato
+Provável	
+desabilitado
+8	C$ 10.34	-0.37	2.46	0.90	
+escudo santosXescudo vasco
+5	12	0	0	0	1	0	0	0
+santos	
+GOL
+Vanderlei
+Provável	
+vender jogador
+8	C$ 10.33	0.66	0.63	5.00	
+escudo santosXescudo vasco
+0	3	0	0	0	0	0	0	0
+vasco	
+TEC
+Celso Roth
+Provável	
+desabilitado
+8	C$ 10.32	0.86	2.58	6.02	
+escudo santosXescudo vasco
+-	-	-	-	-	-	-	-	-
+grêmio	
+LAT
+Marcelo Oliveira
+Provável	
+desabilitado
+13	C$ 10.30	0.29	4.00	6.70	
+escudo atlético-mgXescudo grêmio
+19	31	1	1	4	4	1	2	0
+grêmio	
+LAT
+Rafael Galhardo
+Provável	
+desabilitado
+14	C$ 10.29	1.51	3.88	5.00	
+escudo atlético-mgXescudo grêmio
+21	55	1	2	5	8	1	4	0
+internacional	
+ATA
+Lisandro López
+Provável	
+desabilitado
+8	C$ 10.28	-0.20	1.19	-0.60	
+escudo internacionalXescudo fluminense

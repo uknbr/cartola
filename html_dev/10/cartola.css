@@ -1,0 +1,273 @@
+html, body, div, span,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, code,
+del, em, img, s,
+small, strike, strong, sub, sup,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+body {
+    line-height: 1;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+b, strong {
+    font-weight: bold;
+}
+i, em {
+    font-style: italic;
+}
+ul {
+    list-style-type: square;
+}
+ol {
+    list-style-type: decimal;
+}
+hr {
+    border-style: solid;
+    border-width: 1px 0 0 0;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #444;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+pre, code {
+    font-family: Courier New, monospace;
+    font-size: 14px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+h2 a, h3 a {
+    color: inherit;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    line-height: 1.1em;
+}
+h1, h2 {
+    color: #333;
+}
+
+h1, h2, h3, p, blockquote, ul, ol, dt, dd, pre, table, hr {
+    margin-bottom: 16px;
+}
+ul ul, ol ol, ul pre, ol pre {
+    margin-bottom: 0;
+}
+blockquote, ol, ul, dd {
+    margin-left: 1em;
+}
+table {
+    margin: 24px auto;
+}
+
+pre {
+    overflow: auto;
+}
+tr:hover td {
+    background: #eee;
+}
+img {
+    max-width: 100%;
+}
+p img {
+    display: block;
+    margin: 0 auto;
+    background-color: #eee;
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+p img.inline {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    vertical-align: top;
+}
+
+body {
+    padding: 4em 10%;
+    margin: 0 auto;
+    max-width: 33em;
+}
+.toc {
+    line-height: 150%;
+    border: 1px solid black;
+    border-width: 1px 0;
+    margin-top: 32px;
+    padding-top: 16px;
+    margin-bottom: 16px;
+}
+.toc ul {
+    list-style-type: none;
+}
+.toc > ul {
+    margin-left: 0;
+}
+.toc a {
+    text-decoration: none;
+}
+.toc a:hover {
+    text-decoration: underline;
+}
+
+#header {
+    margin-bottom: 32px; 
+}
+#header h1 {
+    margin: 0;
+}
+h1 {
+    font-size: 2em;
+}
+h2 {
+    font-size: 1.7em;
+    margin-top: 1.5em;
+}
+h3 {
+    font-weight: bold;
+}
+
+blockquote {
+    font-style: italic;
+}
+td, th {
+    border-bottom: 1px solid #ccc;
+    padding: 0 4px;
+}
+th {
+    font-style: italic;
+    background-color: #eee;
+}
+table {
+    font-size: 15px;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 100%;
+}
+.bar {
+    margin: 0;
+    padding: 2em 0;
+}
+.bar > * {
+    max-width: 40em;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.bar-compact {
+    padding: 0;
+}
+.bar-spaced {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+p img {  /* no border */
+    padding: 0;
+    border-width: 0;
+}
+
+.menu     { margin: 1em 0; padding:4px 6px; background:none; border:2px solid #CCC; }
+.note     { margin: 1em 0; padding:6px 9px; background:#EEEEEE; border:1px solid #CCC; }
+.banner   { margin: 1em 0; padding:6px 9px; background:#E7F7D3; border:1px solid #6C3; }
+.download { margin: 1em 0; padding:6px 9px; background:#E7F7D3; border:1px solid #6C3; }
+.alert    { margin: 1em 0; padding:6px 9px; background:#FFFBBC; border:1px solid #E6DB55; }
+.note p, .download p, .alert p, .menu p, .banner p { margin: 0; }
+
+#footer {
+    margin-top: 4em;
+    margin-bottom: 3em;
+    text-align: right;
+    font-size: 80%;
+}
+
+#top {
+    background: -webkit-linear-gradient(OrangeRed, DarkOrange); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(OrangeRed, DarkOrange); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(OrangeRed, DarkOrange); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(OrangeRed, DarkOrange); /* Standard syntax */    
+    color: silver;
+    padding: 20px 0;
+}
+#top tr:hover td {
+    background: transparent;
+}
+#top td {
+    vertical-align: middle;
+    border: none;
+}
+#site-logo {
+    padding-right: 15px;
+}
+#site-logo img {
+    display: block;  /* to avoid bottom spacing */
+    width: 96px;
+    height: 96px;
+}
+#site-name a {
+    font-size: 175%;
+    text-decoration: none;
+    color: white;
+}
+#site-name a:hover {
+    text-decoration: underline;
+}
+#site-menu {
+    word-spacing: 0.5em;
+}
+#site-menu a {
+    color: white;
+}
+
+@media screen and (max-width: 480px) {
+    .toc, #footer {
+        line-height: 200%;
+    }
+    p img {
+        padding: 0;
+        border-width: 0;
+    }
+    .cabecao {
+        display: none;
+    }
+}
+
+/* main table */
+.flat-table { display: block; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 115%; overflow: auto; width: auto; } 
+.flat-table th { background-color: rgb(112, 196, 105); color: white; font-weight: normal; padding: 2px 3px; text-align: center; }
+.flat-table td { background-color: rgb(238, 238, 238); color: rgb(111, 111, 111); padding: 2px 3px; }
+	

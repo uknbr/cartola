@@ -1,0 +1,159 @@
+grêmio	
+MEI
+Giuliano
+Provável	
+desabilitado
+24	C$ 14.43	0.73	3.37	3.20	
+escudo atlético-prXescudo grêmio
+19	82	6	0	6	10	4	3	0
+são paulo	
+MEI
+Ganso
+Provável	
+desabilitado
+20	C$ 14.34	-0.55	3.35	4.30	
+escudo são pauloXescudo chapecoense
+39	81	4	0	5	10	1	6	0
+cruzeiro	
+MEI
+Willians
+Provável	
+desabilitado
+18	C$ 14.22	-0.58	3.90	2.50	
+escudo cruzeiroXescudo vasco
+43	49	1	0	0	3	1	0	0
+vasco	
+ZAG
+Luan
+Provável	
+desabilitado
+13	C$ 13.92	0.16	2.31	5.40	
+escudo cruzeiroXescudo vasco
+17	45	0	0	2	2	0	0	0
+santos	
+TEC
+Dorival Júnior
+Provável	
+desabilitado
+13	C$ 13.78	-0.73	5.06	3.75	
+escudo santosXescudo atlético-mg
+-	-	-	-	-	-	-	-	-
+são paulo	
+TEC
+Juan Carlos Osorio
+Provável	
+desabilitado
+19	C$ 13.76	0.52	4.21	5.61	
+escudo são pauloXescudo chapecoense
+-	-	-	-	-	-	-	-	-
+corinthians	
+LAT
+Fagner
+Provável	
+desabilitado
+19	C$ 13.69	2.03	4.77	11.10	
+escudo internacionalXescudo corinthians
+18	68	1	0	0	3	0	1	0
+ponte preta	
+ATA
+Biro Biro
+Provável	
+desabilitado
+19	C$ 13.56	0.64	3.87	7.20	
+escudo goiásXescudo ponte preta
+51	79	3	1	19	17	3	4	0
+atlético-pr	
+MEI
+Marcos Guilherme
+Provável	
+desabilitado
+16	C$ 13.50	0.66	3.88	0.80	
+escudo atlético-prXescudo grêmio
+19	27	2	0	15	8	3	1	0
+atlético-mg	
+ZAG
+Leonardo Silva
+Provável	
+desabilitado
+20	C$ 13.41	-2.07	4.10	0.80	
+escudo santosXescudo atlético-mg
+22	54	1	0	5	9	2	4	0
+sport	
+ZAG
+Matheus Ferraz
+Provável	
+desabilitado
+23	C$ 13.35	0.61	3.18	2.20	
+escudo joinvilleXescudo sport
+11	47	0	1	1	3	3	0	0
+internacional	
+ATA
+Eduardo Sasha
+Provável	
+desabilitado
+12	C$ 13.22	0.00	3.83	0.00	
+escudo internacionalXescudo corinthians
+16	35	1	2	7	4	2	0	0
+atlético-mg	
+LAT
+Patric
+Provável	
+desabilitado
+13	C$ 13.18	-1.43	4.95	-1.70	
+escudo santosXescudo atlético-mg
+9	52	5	0	4	8	2	12	0
+sport	
+MEI
+Rithely
+Provável	
+desabilitado
+24	C$ 13.16	-0.04	2.82	-0.20	
+escudo joinvilleXescudo sport
+23	99	2	0	5	11	1	1	0
+ponte preta	
+LAT
+Gilson
+Provável	
+desabilitado
+22	C$ 12.96	0.19	3.30	-0.70	
+escudo goiásXescudo ponte preta
+31	74	2	0	3	5	0	5	0
+chapecoense	
+TEC
+Guto Ferreira
+Provável	
+desabilitado
+16	C$ 12.91	0.00	3.81	0.00	
+escudo são pauloXescudo chapecoense
+-	-	-	-	-	-	-	-	-
+palmeiras	
+TEC
+Marcelo Oliveira
+Provável	
+desabilitado
+22	C$ 12.68	1.12	3.85	6.61	
+escudo fluminenseXescudo palmeiras
+-	-	-	-	-	-	-	-	-
+fluminense	
+MEI
+Jean
+Provável	
+desabilitado
+23	C$ 12.68	-1.57	2.14	-2.70	
+escudo fluminenseXescudo palmeiras
+10	82	0	0	6	15	2	0	0
+fluminense	
+TEC
+Enderson Moreira
+Provável	
+desabilitado
+23	C$ 12.62	-0.32	3.11	0.86	
+escudo fluminenseXescudo palmeiras
+-	-	-	-	-	-	-	-	-
+ponte preta	
+ATA
+Borges
+Provável	
+desabilitado
+17	C$ 12.45	0.99	2.13	6.40	
+escudo goiásXescudo ponte preta

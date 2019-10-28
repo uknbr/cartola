@@ -1,0 +1,63 @@
+flamengo	
+ZAG
+Marcelo
+Provável	
+desabilitado
+10	C$ 1.44	0.00	0.84	0.00	
+escudo flamengoXescudo palmeiras
+4	20	0	0	1	0	0	2	0
+joinville	
+MEI
+Ítalo
+Provável	
+desabilitado
+6	C$ 1.42	0.02	0.30	-0.60	
+escudo joinvilleXescudo grêmio
+2	7	0	0	2	0	0	1	0
+santos	
+MEI
+Léo Cittadini
+Provável	
+desabilitado
+6	C$ 1.26	-0.50	-0.05	-1.40	
+escudo santosXescudo atlético-pr
+4	4	0	0	1	2	0	0	0
+ponte preta	
+GOL
+João Carlos
+Provável	
+desabilitado
+0	C$ 1.00	0.00	0.00	0.00	
+escudo ponte pretaXescudo sport
+0	0	0	0	0	0	0	0	0
+fluminense	
+ZAG
+Ygor Nogueira
+Provável	
+desabilitado
+1	C$ 0.89	-0.11	0.30	0.30	
+escudo figueirenseXescudo fluminense
+0	3	0	0	0	0	0	0	0
+goiás	
+MEI
+William Kozlowski
+Provável	
+desabilitado
+10	C$ 0.86	-0.17	0.22	-0.10	
+escudo goiásXescudo são paulo
+8	5	0	0	1	5	0	0	0
+flamengo	
+MEI
+Jajá
+Provável	
+desabilitado
+4	C$ 0.84	-0.27	1.45	-0.50	
+escudo flamengoXescudo palmeiras
+1	4	0	0	0	1	0	0	0
+goiás	
+MEI
+Ygor
+Provável	
+desabilitado
+12	C$ 0.83	0.00	-1.29	-2.00	
+escudo goiásXescudo são paulo

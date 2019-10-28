@@ -1,0 +1,135 @@
+corinthians	
+ATA
+Luciano
+Nulo	
+desabilitado
+2	C$ 6.02	0.00	2.75	0.00	
+escudo corinthiansXescudo vasco
+5	3	0	1	1	0	0	0	0
+corinthians	
+MEI
+Bruno Henrique
+Nulo	
+desabilitado
+13	C$ 5.82	1.30	2.14	5.60	
+escudo corinthiansXescudo vasco
+11	41	0	1	5	7	0	2	0
+corinthians	
+ZAG
+Yago
+Nulo	
+desabilitado
+2	C$ 5.57	0.00	2.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+corinthians	
+LAT
+Guilherme Arana
+Nulo	
+desabilitado
+3	C$ 5.53	0.00	6.03	0.00	
+escudo corinthiansXescudo vasco
+2	2	0	0	0	1	0	0	0
+corinthians	
+ATA
+Gabriel Vasconcelos
+Nulo	
+desabilitado
+0	C$ 4.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+corinthians	
+MEI
+Zé Paulo
+Nulo	
+desabilitado
+0	C$ 4.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+corinthians	
+MEI
+Rodriguinho
+Nulo	
+desabilitado
+1	C$ 3.15	0.00	2.40	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	1	0	0	0
+corinthians	
+ATA
+Gustavo Tocantins
+Nulo	
+desabilitado
+0	C$ 3.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+corinthians	
+LAT
+Guilherme Andrade
+Nulo	
+desabilitado
+0	C$ 3.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+corinthians	
+MEI
+Marciel
+Nulo	
+desabilitado
+1	C$ 2.83	0.00	1.40	0.00	
+escudo corinthiansXescudo vasco
+0	1	0	0	0	0	0	0	0
+corinthians	
+GOL
+Guilherme
+Nulo	
+desabilitado
+0	C$ 2.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+corinthians	
+MEI
+Matheus Cassini
+Nulo	
+desabilitado
+0	C$ 2.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+corinthians	
+ZAG
+Rodrigo Sam
+Nulo	
+desabilitado
+0	C$ 1.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+corinthians	
+MEI
+Matheus Vargas
+Nulo	
+desabilitado
+0	C$ 1.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+corinthians	
+GOL
+Caique
+Nulo	
+desabilitado
+0	C$ 1.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+corinthians	
+MEI
+Matheus Pereira
+Nulo	
+desabilitado
+0	C$ 1.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+corinthians	
+GOL
+Matheus Vidotto
+Nulo	
+desabilitado
+0	C$ 1.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco

@@ -1,0 +1,159 @@
+flamengo	
+MEI
+Márcio Araújo
+Provável	
+desabilitado
+12	C$ 7.63	0.87	2.09	4.90	
+escudo ponte pretaXescudo flamengo
+20	24	0	0	0	5	0	0	0
+corinthians	
+ATA
+Malcom
+Provável	
+desabilitado
+9	C$ 7.60	0.00	4.18	0.00	
+escudo são pauloXescudo corinthians
+23	27	0	2	8	2	1	0	0
+goiás	
+MEI
+David
+Provável	
+desabilitado
+6	C$ 7.60	-0.80	0.80	-1.70	
+escudo goiásXescudo atlético-mg
+3	13	0	0	0	1	0	0	0
+avaí	
+MEI
+Renan
+Provável	
+desabilitado
+14	C$ 7.60	1.03	2.40	8.20	
+escudo avaíXescudo fluminense
+20	25	0	0	0	1	1	0	0
+atlético-mg	
+LAT
+Douglas Santos
+Provável	
+desabilitado
+13	C$ 7.60	0.00	3.24	0.00	
+escudo goiásXescudo atlético-mg
+6	43	2	0	2	6	0	1	0
+palmeiras	
+ATA
+Leandro Pereira
+Provável	
+desabilitado
+10	C$ 7.46	-3.14	5.48	-0.70	
+escudo cruzeiroXescudo palmeiras
+10	10	0	1	3	8	6	5	0
+coritiba	
+ZAG
+Luccas Claro
+Provável	
+desabilitado
+12	C$ 7.40	-0.29	2.86	3.30	
+escudo santosXescudo coritiba
+9	29	0	0	3	1	0	1	0
+atlético-pr	
+ZAG
+Vilches
+Provável	
+desabilitado
+5	C$ 7.36	0.87	1.96	4.10	
+escudo atlético-prXescudo sport
+4	6	0	0	0	1	0	0	0
+cruzeiro	
+ZAG
+Paulo André
+Provável	
+desabilitado
+7	C$ 7.35	1.28	1.23	5.90	
+escudo cruzeiroXescudo palmeiras
+2	17	0	0	2	1	0	0	0
+sport	
+MEI
+Régis
+Provável	
+desabilitado
+12	C$ 7.24	0.13	0.63	0.40	
+escudo atlético-prXescudo sport
+5	21	2	0	1	0	1	1	0
+flamengo	
+MEI
+Alan Patrick
+Provável	
+desabilitado
+8	C$ 7.24	1.94	2.90	9.70	
+escudo ponte pretaXescudo flamengo
+9	16	0	0	5	0	2	1	0
+coritiba	
+MEI
+Esquerdinha
+Provável	
+desabilitado
+9	C$ 7.11	0.54	2.70	5.70	
+escudo santosXescudo coritiba
+20	31	1	0	3	2	0	1	0
+joinville	
+ZAG
+Bruno Aguiar
+Provável	
+desabilitado
+6	C$ 7.04	0.11	2.17	5.10	
+escudo vascoXescudo joinville
+5	9	0	0	0	1	0	0	0
+atlético-mg	
+MEI
+Rafael Carioca
+Provável	
+desabilitado
+13	C$ 6.95	0.00	3.12	0.00	
+escudo goiásXescudo atlético-mg
+17	32	1	0	1	5	0	0	0
+chapecoense	
+ZAG
+Neto
+Provável	
+desabilitado
+11	C$ 6.85	0.63	3.67	5.90	
+escudo chapecoenseXescudo figueirense
+6	21	0	0	1	3	1	0	0
+figueirense	
+MEI
+Rafael Bastos
+Provável	
+desabilitado
+9	C$ 6.76	1.18	2.65	9.30	
+escudo chapecoenseXescudo figueirense
+12	21	1	0	3	2	0	1	0
+internacional	
+LAT
+William
+Provável	
+desabilitado
+8	C$ 6.73	-0.31	6.40	5.30	
+escudo grêmioXescudo internacional
+11	30	0	0	1	0	0	0	0
+figueirense	
+LAT
+Leandro Silva
+Provável	
+desabilitado
+12	C$ 6.71	0.00	3.03	0.00	
+escudo chapecoenseXescudo figueirense
+9	47	0	0	0	3	0	0	0
+vasco	
+MEI
+Andrezinho
+Provável	
+desabilitado
+4	C$ 6.66	0.00	3.72	0.00	
+escudo vascoXescudo joinville
+8	7	0	0	1	0	1	0	0
+chapecoense	
+ATA
+Bruno Rangel
+Provável	
+desabilitado
+8	C$ 6.65	-2.57	5.80	1.40	
+escudo chapecoenseXescudo figueirense

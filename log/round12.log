@@ -1,0 +1,80 @@
+
+***************** cartola_files.sh [2015-07-16 23:44:35] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Processing files
+[+] Generating CSV (round12.csv)
+[+] Generating SQL (round12.sql)
+[*] ------> Summary <------
+[*] Detected round: 12
+[*] Detected date: 2015-07-10
+[*] Detected teams: 0
+[*] Detected players: 17
+[*] Detected scouts: 227
+[*] Detected matches: 10
+[*] Detected statistics: 224
+***************** cartola_files.sh [2015-07-16 23:45:02] *****************
+
+***************** cartola_db.sh [2015-07-16 23:46:54] *****************
+[+] LOG: ../log/round12.log
+[+] SQL: ../output/round12.sql
+[+] TYPE: player
+[+] LINES: 17
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (434 lines)
+***************** cartola_db.sh [2015-07-16 23:47:03] *****************
+
+***************** cartola_files.sh [2015-07-16 23:47:17] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Processing files
+[+] Generating CSV (round12.csv)
+[+] Generating SQL (round12.sql)
+[*] ------> Summary <------
+[*] Detected round: 12
+[*] Detected date: 2015-07-10
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 227
+[*] Detected matches: 10
+[*] Detected statistics: 228
+***************** cartola_files.sh [2015-07-16 23:47:41] *****************
+
+***************** cartola_db.sh [2015-07-16 23:56:04] *****************
+[+] LOG: ../log/round12.log
+[+] SQL: ../output/round12.sql
+[+] TYPE: match
+[+] LINES: 10
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (98 lines)
+***************** cartola_db.sh [2015-07-16 23:56:11] *****************
+
+***************** cartola_db.sh [2015-07-16 23:56:19] *****************
+[+] LOG: ../log/round12.log
+[+] SQL: ../output/round12.sql
+[+] TYPE: round
+[+] LINES: 227
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (2011 lines)
+***************** cartola_db.sh [2015-07-16 23:57:36] *****************
+
+***************** cartola_db.sh [2015-07-16 23:58:04] *****************
+[+] LOG: ../log/round12.log
+[+] SQL: ../output/round12.sql
+[+] TYPE: stat
+[+] LINES: 227
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (2011 lines)
+***************** cartola_db.sh [2015-07-16 23:59:08] *****************

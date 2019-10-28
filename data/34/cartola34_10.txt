@@ -1,0 +1,159 @@
+atlético-pr	
+MEI
+Barrientos
+Provável	
+desabilitado
+5	C$ 4.72	-0.48	1.48	2.10	
+escudo atlético-prXescudo palmeiras
+0	11	0	0	1	2	0	0	0
+chapecoense	
+MEI
+Maranhão
+Provável	
+desabilitado
+21	C$ 4.65	2.31	0.94	13.30	
+escudo chapecoenseXescudo internacional
+18	19	3	0	2	3	0	0	0
+são paulo	
+LAT
+Reinaldo
+Provável	
+desabilitado
+19	C$ 4.60	-0.56	2.73	0.00	
+escudo são pauloXescudo atlético-mg
+12	52	0	0	2	5	0	2	0
+figueirense	
+MEI
+Yago
+Provável	
+desabilitado
+23	C$ 4.49	0.00	1.60	0.00	
+escudo ponte pretaXescudo figueirense
+24	54	4	0	5	4	1	0	0
+palmeiras	
+ZAG
+Jackson
+Provável	
+desabilitado
+16	C$ 4.42	-0.16	2.25	-1.20	
+escudo atlético-prXescudo palmeiras
+11	32	0	0	0	7	2	0	0
+fluminense	
+ATA
+Marcos Junior
+Provável	
+desabilitado
+26	C$ 4.41	0.71	1.32	2.20	
+escudo grêmioXescudo fluminense
+49	44	0	0	9	7	5	6	0
+joinville	
+ATA
+Kempes
+Provável	
+desabilitado
+27	C$ 4.40	-0.06	2.11	-2.00	
+escudo avaíXescudo joinville
+22	49	1	0	12	17	6	13	0
+coritiba	
+ZAG
+Walisson Maia
+Provável	
+desabilitado
+12	C$ 4.32	0.00	5.00	0.00	
+escudo goiásXescudo coritiba
+11	22	0	0	1	3	0	0	0
+santos	
+MEI
+Thiago Maia
+Provável	
+desabilitado
+26	C$ 4.22	-0.02	2.79	6.10	
+escudo santosXescudo flamengo
+14	60	0	1	0	6	2	0	0
+avaí	
+MEI
+Néstor Camacho
+Provável	
+desabilitado
+11	C$ 4.07	0.07	2.25	-0.20	
+escudo avaíXescudo joinville
+10	30	3	1	4	12	1	4	0
+avaí	
+MEI
+Eduardo Neto
+Provável	
+desabilitado
+26	C$ 3.97	0.97	1.06	3.00	
+escudo avaíXescudo joinville
+20	68	1	1	9	6	0	1	0
+avaí	
+LAT
+Romário
+Provável	
+desabilitado
+29	C$ 3.81	-0.38	1.51	2.90	
+escudo avaíXescudo joinville
+35	98	0	0	3	1	0	0	0
+avaí	
+ZAG
+Antonio Carlos
+Provável	
+desabilitado
+25	C$ 3.80	0.64	2.00	6.00	
+escudo avaíXescudo joinville
+21	49	1	0	3	10	0	0	0
+avaí	
+ATA
+Romulo
+Provável	
+desabilitado
+25	C$ 3.74	-1.51	2.63	0.90	
+escudo avaíXescudo joinville
+33	33	0	1	11	14	3	2	0
+ponte preta	
+MEI
+Juninho
+Provável	
+desabilitado
+20	C$ 3.71	0.00	1.29	0.00	
+escudo ponte pretaXescudo figueirense
+13	39	0	0	2	3	0	1	0
+avaí	
+GOL
+Vagner
+Provável	
+desabilitado
+29	C$ 3.59	0.08	0.97	-1.00	
+escudo avaíXescudo joinville
+3	12	0	0	0	0	0	0	0
+santos	
+LAT
+Daniel Guedes
+Provável	
+desabilitado
+14	C$ 3.56	-0.12	1.64	1.90	
+escudo santosXescudo flamengo
+7	45	3	0	3	2	0	1	0
+coritiba	
+MEI
+João Paulo
+Provável	
+desabilitado
+29	C$ 3.56	0.24	0.89	2.10	
+escudo goiásXescudo coritiba
+20	79	0	0	5	5	0	0	0
+joinville	
+ATA
+Fernando Viana
+Provável	
+desabilitado
+7	C$ 3.47	0.16	0.57	1.70	
+escudo avaíXescudo joinville
+6	7	0	0	4	4	0	3	0
+avaí	
+ZAG
+Emerson
+Provável	
+desabilitado
+22	C$ 3.44	0.00	2.32	0.00	
+escudo avaíXescudo joinville

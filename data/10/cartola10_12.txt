@@ -1,0 +1,39 @@
+são paulo	
+MEI
+Hudson
+Provável	
+desabilitado
+8	C$ 1.85	0.00	0.25	0.00	
+escudo são pauloXescudo fluminense
+1	16	1	0	1	1	0	0	0
+goiás	
+ATA
+Wesley
+Provável	
+desabilitado
+7	C$ 1.53	0.00	1.06	0.00	
+escudo goiásXescudo corinthians
+14	7	0	0	3	2	1	1	0
+santos	
+ZAG
+Paulo Ricardo
+Provável	
+desabilitado
+1	C$ 1.07	0.07	1.10	1.10	
+escudo santosXescudo grêmio
+0	2	0	0	0	0	0	0	0
+joinville	
+LAT
+Diego
+Provável	
+desabilitado
+3	C$ 0.92	0.09	-1.27	-1.30	
+escudo coritibaXescudo joinville
+3	12	0	0	1	2	0	1	0
+goiás	
+MEI
+Ygor
+Provável	
+desabilitado
+2	C$ 0.82	-0.29	-3.25	-1.90	
+escudo goiásXescudo corinthians

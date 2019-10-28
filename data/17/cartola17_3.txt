@@ -1,0 +1,159 @@
+fluminense	
+MEI
+Ronaldinho Gaúcho
+Provável	
+vender jogador
+2	C$ 14.30	-0.42	-0.60	2.10	
+escudo internacionalXescudo fluminense
+1	16	0	0	3	2	0	1	0
+goiás	
+ATA
+Bruno Henrique
+Provável	
+desabilitado
+14	C$ 14.23	0.49	4.42	6.70	
+escudo goiásXescudo chapecoense
+39	33	2	0	11	17	2	8	0
+atlético-pr	
+MEI
+Marcos Guilherme
+Provável	
+desabilitado
+9	C$ 14.15	0.49	5.05	3.30	
+escudo flamengoXescudo atlético-pr
+10	11	1	0	9	4	3	1	0
+ponte preta	
+LAT
+Gilson
+Provável	
+desabilitado
+15	C$ 14.07	0.34	3.35	6.90	
+escudo ponte pretaXescudo avaí
+22	45	0	0	3	3	0	3	0
+cruzeiro	
+GOL
+Fábio
+Provável	
+desabilitado
+16	C$ 13.86	0.04	4.26	7.00	
+escudo joinvilleXescudo cruzeiro
+4	3	0	0	0	0	0	0	0
+sport	
+ZAG
+Matheus Ferraz
+Provável	
+desabilitado
+16	C$ 13.75	-0.71	3.76	1.90	
+escudo corinthiansXescudo sport
+7	31	0	0	1	3	3	0	0
+cruzeiro	
+MEI
+Willians
+Provável	
+desabilitado
+11	C$ 13.64	0.25	2.50	3.50	
+escudo joinvilleXescudo cruzeiro
+25	26	0	0	0	2	0	0	0
+santos	
+TEC
+Dorival Júnior
+Provável	
+vender jogador
+5	C$ 13.06	1.36	5.67	7.75	
+escudo santosXescudo vasco
+-	-	-	-	-	-	-	-	-
+ponte preta	
+ATA
+Biro Biro
+Provável	
+desabilitado
+15	C$ 13.04	-0.27	3.70	3.30	
+escudo ponte pretaXescudo avaí
+39	67	3	0	14	12	2	4	0
+corinthians	
+LAT
+Uendel
+Provável	
+desabilitado
+10	C$ 12.95	0.90	6.43	4.70	
+escudo corinthiansXescudo sport
+1	22	2	0	0	1	1	0	0
+cruzeiro	
+MEI
+Henrique
+Provável	
+desabilitado
+12	C$ 12.93	0.61	4.55	4.50	
+escudo joinvilleXescudo cruzeiro
+20	31	0	1	5	7	1	1	0
+avaí	
+MEI
+Marquinhos
+Provável	
+desabilitado
+7	C$ 12.89	-2.13	1.13	-2.80	
+escudo ponte pretaXescudo avaí
+13	54	1	1	3	5	1	0	0
+fluminense	
+MEI
+Jean
+Provável	
+desabilitado
+15	C$ 12.88	0.00	1.87	0.00	
+escudo internacionalXescudo fluminense
+6	53	0	0	4	10	1	0	0
+são paulo	
+MEI
+Ganso
+Provável	
+desabilitado
+13	C$ 12.88	0.08	1.18	1.30	
+escudo figueirenseXescudo são paulo
+23	46	1	0	3	8	0	6	0
+são paulo	
+MEI
+Michel Bastos
+Provável	
+desabilitado
+14	C$ 12.82	-0.29	1.90	-0.20	
+escudo figueirenseXescudo são paulo
+7	69	0	0	3	18	3	7	0
+fluminense	
+TEC
+Enderson Moreira
+Provável	
+desabilitado
+15	C$ 12.66	-0.91	3.62	-0.08	
+escudo internacionalXescudo fluminense
+-	-	-	-	-	-	-	-	-
+atlético-mg	
+ATA
+Thiago Ribeiro
+Provável	
+vender jogador
+14	C$ 12.66	-0.47	4.13	1.50	
+escudo atlético-mgXescudo grêmio
+10	52	1	0	8	12	6	6	0
+são paulo	
+TEC
+Juan Carlos Osorio
+Provável	
+desabilitado
+11	C$ 12.57	-0.45	3.46	3.06	
+escudo figueirenseXescudo são paulo
+-	-	-	-	-	-	-	-	-
+sport	
+ZAG
+Durval
+Provável	
+desabilitado
+17	C$ 12.56	-0.08	2.70	2.80	
+escudo corinthiansXescudo sport
+7	49	0	0	2	0	0	3	0
+internacional	
+ATA
+Eduardo Sasha
+Provável	
+desabilitado
+5	C$ 12.56	0.28	1.94	2.50	
+escudo internacionalXescudo fluminense

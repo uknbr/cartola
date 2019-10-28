@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <title>Brasileirão Cartola</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="author" content="Pedro Pavan" >
+    <link rel="shortcut icon" href="img/ball.png">
+
+    <link rel="stylesheet" href="cartola.css">
+</head>
+
+<body>
+
+<div id="top" class="bar bar-compact">
+    <table>
+        <tr>
+            <td id="site-logo">
+                <a href="/"><img src="img/cartola.png"></a>
+            </td>
+            <td>
+                <div id="site-name">
+                    <a href="/">BRASILEIRÃO CARTOLA</a>
+                </div>
+                <div id="site-menu">
+                    <a class="menu" href="/index.html">início</a>
+                    <a href="/standing.html">tabela</a>
+                    <a href="/top5.html">top5</a>
+                    <a href="/best.html">destaque</a>
+						  <a href="/chart.html">gráficos</a>
+                    <a href="/contato.html">contato</a>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div id="main" class="bar">
+
+    <div id="header">
+		  <img style="display: inline;" src="img/bench.png" alt="Início" />
+		  <h1 style="display: inline;">Início</h1>
+    </div>
+
+    <div id="content">
+		<style>
+			#content li em {
+				color: green;
+				font-style: normal;
+			}
+			#content pre {
+				padding: 1.5em 5px;
+			}
+		</style>
+
+		<div class="alert">
+			Atualizado em: 2015/06/26 23:04:05
+		</div>
+
+		<div class="banner">
+			Dados diponíveis: Rodada 4 até Rodada 7
+		</div>
+
+		<p>Este site foi feito para você cartoleiro que esta afim de ficar por dentro de tudo que acontece no Brasileirão. Acompanhe os destaques da última rodada bem como  as estatísticas dos jogares para auxiliar na escação do seu time.</p>
+	</div>
+		
+	<p>Curtiu? Compartilhe com seus amigos cartoleiros!</p>
+	
+	<br>
+	<center>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=MYHOST/cartola"><img src="img/facebook.png" alt="Facebook" style="width:42px;height:42px;border:0;"></a>
+		<a href="https://twitter.com/home?status=MYHOST/cartola"><img src="img/twitter.png" alt="Twitter" style="width:42px;height:42px;border:0;"></a>
+		<a href="https://plus.google.com/share?url=MYHOST/cartola"><img src="img/google+.png" alt="Goodle Plus" style="width:42px;height:42px;border:0;"></a>
+	</center>
+	
+</div>
+
+</div>
+
+</body>
+</html>

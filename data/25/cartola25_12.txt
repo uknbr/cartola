@@ -1,0 +1,31 @@
+fluminense	
+LAT
+Léo Pelé
+Provável	
+desabilitado
+1	C$ 1.72	-0.28	0.40	0.40	
+escudo fluminenseXescudo palmeiras
+0	5	0	0	0	1	0	0	0
+joinville	
+MEI
+Yuri
+Provável	
+desabilitado
+1	C$ 1.57	0.00	-0.20	0.00	
+escudo joinvilleXescudo sport
+0	3	0	0	0	0	0	0	0
+figueirense	
+ZAG
+Bruno Alves
+Provável	
+desabilitado
+14	C$ 1.50	0.00	0.96	0.00	
+escudo figueirenseXescudo avaí
+4	18	0	0	1	4	1	1	0
+internacional	
+LAT
+Oliveira
+Provável	
+desabilitado
+0	C$ 1.00	0.00	0.00	0.00	
+escudo internacionalXescudo corinthians

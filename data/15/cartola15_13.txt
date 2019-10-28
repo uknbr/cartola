@@ -1,0 +1,159 @@
+são paulo	
+GOL
+Rogério Ceni
+Nulo	
+desabilitado
+14	C$ 25.41	0.78	5.26	4.70	
+escudo atlético-mgXescudo são paulo
+0	15	0	0	0	0	2	0	0
+são paulo	
+ATA
+Alexandre Pato
+Nulo	
+vender jogador
+14	C$ 15.76	2.43	5.20	11.10	
+escudo atlético-mgXescudo são paulo
+20	38	3	1	8	4	6	9	0
+são paulo	
+ATA
+Luis Fabiano
+Nulo	
+desabilitado
+11	C$ 13.55	0.00	0.95	0.00	
+escudo atlético-mgXescudo são paulo
+11	17	1	1	4	7	2	10	0
+são paulo	
+MEI
+Michel Bastos
+Nulo	
+desabilitado
+13	C$ 13.11	-0.44	2.06	0.10	
+escudo atlético-mgXescudo são paulo
+7	66	0	0	3	17	3	7	0
+são paulo	
+TEC
+Juan Carlos Osorio
+Nulo	
+desabilitado
+10	C$ 13.02	1.02	3.50	5.76	
+escudo atlético-mgXescudo são paulo
+-	-	-	-	-	-	-	-	-
+são paulo	
+LAT
+Carlinhos
+Nulo	
+desabilitado
+7	C$ 12.81	2.82	5.31	18.60	
+escudo atlético-mgXescudo são paulo
+16	27	1	0	2	1	0	3	0
+são paulo	
+MEI
+Ganso
+Nulo	
+desabilitado
+12	C$ 12.80	0.00	1.17	0.00	
+escudo atlético-mgXescudo são paulo
+23	44	1	0	3	8	0	4	0
+são paulo	
+MEI
+Wesley
+Contundido	
+desabilitado
+8	C$ 12.03	0.00	3.32	0.00	
+escudo atlético-mgXescudo são paulo
+9	21	1	0	3	3	1	1	0
+são paulo	
+ZAG
+Rafael Toloi
+Nulo	
+desabilitado
+9	C$ 11.55	1.05	2.85	6.20	
+escudo atlético-mgXescudo são paulo
+4	27	0	0	1	1	0	0	0
+são paulo	
+ATA
+Centurión
+Nulo	
+desabilitado
+11	C$ 10.22	0.09	2.65	0.90	
+escudo atlético-mgXescudo são paulo
+16	21	1	0	4	4	2	6	0
+são paulo	
+ATA
+Alan Kardec
+Contundido	
+desabilitado
+0	C$ 9.00	0.00	0.00	0.00	
+escudo atlético-mgXescudo são paulo
+0	0	0	0	0	0	0	0	0
+são paulo	
+LAT
+Bruno
+Contundido	
+desabilitado
+9	C$ 8.58	0.00	2.59	0.00	
+escudo atlético-mgXescudo são paulo
+11	35	1	0	0	1	0	0	0
+são paulo	
+MEI
+Thiago Mendes
+Nulo	
+desabilitado
+14	C$ 6.77	-0.37	2.68	1.30	
+escudo atlético-mgXescudo são paulo
+20	40	2	0	3	4	0	4	0
+são paulo	
+MEI
+Boschilia
+Nulo	
+desabilitado
+5	C$ 6.15	0.43	2.38	2.00	
+escudo atlético-mgXescudo são paulo
+4	7	0	0	0	2	1	1	0
+são paulo	
+MEI
+Daniel
+Contundido	
+desabilitado
+0	C$ 6.00	0.00	0.00	0.00	
+escudo atlético-mgXescudo são paulo
+0	0	0	0	0	0	0	0	0
+são paulo	
+ZAG
+Edson Silva
+Nulo	
+desabilitado
+5	C$ 5.64	1.43	2.72	6.70	
+escudo atlético-mgXescudo são paulo
+0	7	0	0	0	0	0	1	0
+são paulo	
+MEI
+Rodrigo Caio
+Nulo	
+desabilitado
+8	C$ 5.61	-0.15	1.84	2.00	
+escudo atlético-mgXescudo são paulo
+7	22	1	1	0	1	0	2	0
+são paulo	
+GOL
+Denis
+Contundido	
+desabilitado
+0	C$ 5.00	0.00	0.00	0.00	
+escudo atlético-mgXescudo são paulo
+0	0	0	0	0	0	0	0	0
+são paulo	
+LAT
+Auro
+Nulo	
+desabilitado
+1	C$ 4.43	0.00	4.40	0.00	
+escudo atlético-mgXescudo são paulo
+1	2	0	0	0	0	0	0	0
+são paulo	
+LAT
+Reinaldo
+Nulo	
+desabilitado
+9	C$ 4.13	0.00	2.37	0.00	
+escudo atlético-mgXescudo são paulo

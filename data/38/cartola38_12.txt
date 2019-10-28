@@ -1,0 +1,79 @@
+palmeiras	
+LAT
+Lucas Taylor
+Provável	
+desabilitado
+3	C$ 1.60	0.77	0.93	4.60	
+escudo flamengoXescudo palmeiras
+2	5	0	0	1	0	0	0	0
+fluminense	
+GOL
+Júlio César
+Provável	
+desabilitado
+2	C$ 1.49	0.04	-0.30	0.40	
+escudo figueirenseXescudo fluminense
+0	2	0	0	0	0	0	0	0
+palmeiras	
+MEI
+Juninho
+Provável	
+desabilitado
+2	C$ 1.26	-0.24	-1.45	-2.00	
+escudo flamengoXescudo palmeiras
+1	3	0	0	0	0	0	0	0
+ponte preta	
+MEI
+Marcos Serrato
+Provável	
+desabilitado
+1	C$ 1.19	-0.81	-2.50	-2.50	
+escudo ponte pretaXescudo sport
+1	4	0	0	0	0	0	0	0
+fluminense	
+ZAG
+Ygor Nogueira
+Provável	
+desabilitado
+2	C$ 0.92	0.03	0.40	0.50	
+escudo figueirenseXescudo fluminense
+1	6	0	0	0	0	0	0	0
+ponte preta	
+GOL
+João Carlos
+Provável	
+desabilitado
+1	C$ 0.83	-0.17	-2.30	-2.30	
+escudo ponte pretaXescudo sport
+0	1	0	0	0	0	0	0	0
+ponte preta	
+LAT
+Jeferson
+Provável	
+desabilitado
+4	C$ 0.83	-0.22	1.35	-1.70	
+escudo ponte pretaXescudo sport
+4	8	0	0	0	0	0	0	0
+goiás	
+MEI
+William Kozlowski
+Provável	
+desabilitado
+11	C$ 0.83	-0.03	0.10	-1.10	
+escudo goiásXescudo são paulo
+8	7	0	0	1	5	0	0	0
+flamengo	
+MEI
+Jajá
+Provável	
+desabilitado
+5	C$ 0.83	-0.01	0.74	-2.10	
+escudo flamengoXescudo palmeiras
+1	6	0	0	0	1	0	0	0
+goiás	
+MEI
+Ygor
+Provável	
+desabilitado
+12	C$ 0.83	0.00	-1.29	0.00	
+escudo goiásXescudo são paulo

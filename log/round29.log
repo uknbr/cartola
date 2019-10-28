@@ -1,0 +1,114 @@
+
+***************** cartola_files.sh [2015-12-22 23:39:08] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_29.txt)
+[+] Processing files
+[+] Generating CSV (round29.csv)
+[+] Generating SQL (round29.sql)
+[*] ------> Summary <------
+[*] Detected round: 29
+[*] Detected date: 2015-12-22
+[*] Detected teams: 0
+[*] Detected players: 8
+[*] Detected scouts: 221
+[*] Detected matches: 10
+[*] Detected statistics: 218
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 23:39:35] *****************
+
+***************** cartola_db.sh [2015-12-22 23:39:36] *****************
+[+] LOG: ../log/round29.log
+[+] SQL: ../output/round29.sql
+[+] TYPE: player
+[+] LINES: 8
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (654 lines)
+***************** cartola_db.sh [2015-12-22 23:39:43] *****************
+
+***************** cartola_files.sh [2015-12-22 23:39:44] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_29.txt)
+[+] Processing files
+[+] Generating CSV (round29.csv)
+[+] Generating SQL (round29.sql)
+[*] ------> Summary <------
+[*] Detected round: 29
+[*] Detected date: 2015-12-22
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 221
+[*] Detected matches: 10
+[*] Detected statistics: 221
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 23:40:10] *****************
+
+***************** cartola_db.sh [2015-12-22 23:40:11] *****************
+[+] LOG: ../log/round29.log
+[+] SQL: ../output/round29.sql
+[+] TYPE: match
+[+] LINES: 10
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (266 lines)
+***************** cartola_db.sh [2015-12-22 23:40:18] *****************
+
+***************** cartola_db.sh [2015-12-22 23:40:19] *****************
+[+] LOG: ../log/round29.log
+[+] SQL: ../output/round29.sql
+[+] TYPE: round
+[+] LINES: 221
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (6016 lines)
+***************** cartola_db.sh [2015-12-22 23:41:28] *****************
+
+***************** cartola_db.sh [2015-12-22 23:41:29] *****************
+[+] LOG: ../log/round29.log
+[+] SQL: ../output/round29.sql
+[+] TYPE: stat
+[+] LINES: 221
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (6016 lines)
+***************** cartola_db.sh [2015-12-22 23:42:33] *****************
+
+***************** cartola_db.sh [2015-12-22 23:42:34] *****************
+[+] LOG: ../log/round29.log
+[+] SQL: ../output/round29.sql
+[+] TYPE: score
+[+] LINES: 10
+[+] Connection working [pedro-NOTE <---> MYHOST]
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully
+***************** cartola_db.sh [2015-12-22 23:42:41] *****************
+
+***************** cartola_files.sh [2015-12-23 00:00:31] *****************
+[+] Running from host: pedro-NOTE (creating tunnel)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_29.txt)
+[+] Processing files
+[+] Generating CSV (round29.csv)
+[+] Generating SQL (round29.sql)
+[*] ------> Summary <------
+[*] Detected round: 29
+[*] Detected date: 2015-12-22
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 221
+[*] Detected matches: 10
+[*] Detected statistics: 221
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-23 00:01:04] *****************

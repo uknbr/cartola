@@ -1,0 +1,159 @@
+grêmio	
+MEI
+Fellipe Bastos
+Provável	
+desabilitado
+4	C$ 7.91	0.70	0.70	3.60	
+escudo são pauloXescudo grêmio
+2	2	0	0	0	0	0	0	0
+corinthians	
+ATA
+Mendoza
+Provável	
+desabilitado
+5	C$ 7.79	3.05	3.16	11.90	
+escudo joinvilleXescudo corinthians
+9	12	0	0	0	3	1	0	0
+ponte preta	
+MEI
+Josimar
+Provável	
+desabilitado
+5	C$ 7.79	1.75	1.80	6.10	
+escudo santosXescudo ponte preta
+6	11	1	0	0	2	0	0	0
+sport	
+GOL
+Danilo Fernandes
+Provável	
+desabilitado
+3	C$ 7.75	1.78	6.17	8.00	
+escudo fluminenseXescudo sport
+1	0	0	0	0	0	0	0	0
+flamengo	
+ZAG
+Samir
+Provável	
+desabilitado
+1	C$ 7.60	-0.40	4.00	4.00	
+escudo flamengoXescudo chapecoense
+0	1	0	0	0	2	0	0	0
+palmeiras	
+ATA
+Kelvin
+Provável	
+desabilitado
+5	C$ 7.60	-1.32	2.70	-0.50	
+escudo figueirenseXescudo palmeiras
+7	11	2	0	5	2	0	0	0
+ponte preta	
+ZAG
+Pablo
+Provável	
+desabilitado
+5	C$ 7.47	0.92	2.86	4.40	
+escudo santosXescudo ponte preta
+4	7	0	0	0	1	0	0	0
+figueirense	
+MEI
+Ricardinho
+Provável	
+desabilitado
+3	C$ 7.38	-0.94	3.33	0.70	
+escudo figueirenseXescudo palmeiras
+5	6	1	0	0	1	0	1	0
+avaí	
+LAT
+Pablo
+Provável	
+desabilitado
+5	C$ 7.15	0.74	2.10	4.60	
+escudo goiásXescudo avaí
+15	16	0	0	0	3	0	0	0
+chapecoense	
+ATA
+Edmílson
+Provável	
+desabilitado
+2	C$ 7.15	-0.80	1.05	0.30	
+escudo flamengoXescudo chapecoense
+1	5	0	0	1	1	0	1	0
+cruzeiro	
+MEI
+Charles
+Provável	
+desabilitado
+4	C$ 7.12	0.57	2.17	2.00	
+escudo atlético-mgXescudo cruzeiro
+2	14	0	0	0	1	1	0	0
+coritiba	
+ATA
+Paulinho
+Provável	
+desabilitado
+3	C$ 7.11	0.79	5.63	6.20	
+escudo internacionalXescudo coritiba
+2	4	0	0	0	2	1	1	0
+coritiba	
+ZAG
+Leandro Almeida
+Provável	
+desabilitado
+5	C$ 7.04	-0.34	0.12	-1.90	
+escudo internacionalXescudo coritiba
+2	9	0	0	1	0	0	0	0
+sport	
+ATA
+Maikon Leite
+Provável	
+desabilitado
+2	C$ 7.03	3.81	6.80	13.70	
+escudo fluminenseXescudo sport
+2	6	0	1	1	1	1	0	0
+joinville	
+MEI
+Marcelo Costa
+Provável	
+desabilitado
+4	C$ 6.99	-1.69	0.32	-3.00	
+escudo joinvilleXescudo corinthians
+4	5	0	0	0	2	0	1	0
+goiás	
+MEI
+Rodrigo
+Provável	
+desabilitado
+5	C$ 6.96	-0.45	3.44	3.90	
+escudo goiásXescudo avaí
+2	3	0	0	2	1	1	0	0
+flamengo	
+LAT
+Anderson Pico
+Provável	
+vender jogador
+3	C$ 6.95	-1.51	1.77	-1.50	
+escudo flamengoXescudo chapecoense
+2	14	0	0	1	0	0	0	0
+goiás	
+TEC
+Hélio Dos Anjos
+Provável	
+desabilitado
+5	C$ 6.94	-0.18	3.39	1.26	
+escudo goiásXescudo avaí
+-	-	-	-	-	-	-	-	-
+coritiba	
+MEI
+Luís Cáceres
+Provável	
+desabilitado
+1	C$ 6.94	-1.06	1.70	1.70	
+escudo internacionalXescudo coritiba
+0	0	0	0	0	0	0	0	0
+joinville	
+ZAG
+Bruno Aguiar
+Provável	
+desabilitado
+5	C$ 6.93	-0.01	1.58	1.60	
+escudo joinvilleXescudo corinthians

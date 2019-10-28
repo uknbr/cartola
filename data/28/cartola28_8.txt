@@ -1,0 +1,159 @@
+internacional	
+LAT
+Léo
+Provável	
+desabilitado
+6	C$ 7.55	-1.44	3.80	-0.60	
+escudo internacionalXescudo sport
+11	16	0	0	0	2	0	0	0
+joinville	
+ATA
+Edigar Junio
+Provável	
+desabilitado
+16	C$ 7.43	0.73	4.25	2.90	
+escudo flamengoXescudo joinville
+24	22	2	3	6	8	2	1	0
+atlético-mg	
+LAT
+Douglas Santos
+Provável	
+desabilitado
+21	C$ 7.43	0.19	2.75	3.70	
+escudo coritibaXescudo atlético-mg
+10	61	2	0	2	9	0	2	0
+são paulo	
+ATA
+Rogério
+Provável	
+desabilitado
+6	C$ 7.40	1.09	4.12	3.10	
+escudo são pauloXescudo atlético-pr
+15	17	0	0	3	5	2	3	0
+fluminense	
+ATA
+Wellington Paulista
+Provável	
+desabilitado
+16	C$ 7.40	-0.22	0.95	-1.30	
+escudo santosXescudo fluminense
+16	36	2	2	5	9	2	11	0
+figueirense	
+ATA
+Clayton
+Provável	
+desabilitado
+19	C$ 7.37	-0.06	2.18	0.10	
+escudo goiásXescudo figueirense
+26	60	4	0	9	13	3	18	0
+chapecoense	
+ATA
+Bruno Rangel
+Provável	
+desabilitado
+17	C$ 7.34	0.22	4.57	1.00	
+escudo chapecoenseXescudo palmeiras
+7	9	0	1	5	12	8	6	0
+flamengo	
+MEI
+Márcio Araújo
+Provável	
+desabilitado
+23	C$ 7.27	-0.05	1.80	2.60	
+escudo flamengoXescudo joinville
+33	46	0	0	0	6	0	0	0
+atlético-mg	
+MEI
+Rafael Carioca
+Provável	
+desabilitado
+24	C$ 7.18	0.22	2.49	2.60	
+escudo coritibaXescudo atlético-mg
+37	58	1	0	2	6	0	0	0
+sport	
+ATA
+Maikon Leite
+Provável	
+desabilitado
+18	C$ 7.17	-0.28	3.10	-0.80	
+escudo internacionalXescudo sport
+15	46	2	1	10	15	3	3	0
+vasco	
+MEI
+Andrezinho
+Provável	
+desabilitado
+11	C$ 7.15	-2.39	4.35	0.10	
+escudo avaíXescudo vasco
+20	15	3	0	1	1	1	0	0
+coritiba	
+LAT
+Carlinhos
+Provável	
+desabilitado
+10	C$ 7.08	-1.63	5.17	-1.20	
+escudo coritibaXescudo atlético-mg
+23	35	0	0	0	3	0	0	0
+joinville	
+ZAG
+Bruno Aguiar
+Provável	
+desabilitado
+17	C$ 6.98	-0.21	3.16	-2.30	
+escudo flamengoXescudo joinville
+11	20	0	0	1	4	2	1	0
+sport	
+MEI
+Marlone
+Provável	
+desabilitado
+22	C$ 6.88	-0.90	3.09	1.60	
+escudo internacionalXescudo sport
+28	65	4	0	12	16	2	3	0
+joinville	
+ATA
+Kempes
+Provável	
+desabilitado
+22	C$ 6.76	2.40	2.09	13.40	
+escudo flamengoXescudo joinville
+13	35	0	0	9	13	5	10	0
+avaí	
+TEC
+Gilson Kleina
+Provável	
+desabilitado
+28	C$ 6.52	-0.40	2.33	1.85	
+escudo avaíXescudo vasco
+-	-	-	-	-	-	-	-	-
+atlético-pr	
+LAT
+Sidcley
+Provável	
+desabilitado
+15	C$ 6.46	-0.11	3.15	1.70	
+escudo são pauloXescudo atlético-pr
+20	56	0	0	2	6	1	0	0
+figueirense	
+ATA
+Marcão
+Provável	
+desabilitado
+20	C$ 6.43	-0.61	0.98	-0.50	
+escudo goiásXescudo figueirense
+21	21	0	0	8	7	2	12	0
+joinville	
+LAT
+Edson Ratinho
+Provável	
+desabilitado
+6	C$ 6.40	0.39	3.03	2.40	
+escudo flamengoXescudo joinville
+12	16	0	0	1	2	0	1	0
+vasco	
+ATA
+Leandrão
+Provável	
+desabilitado
+5	C$ 6.37	0.02	3.22	1.20	
+escudo avaíXescudo vasco

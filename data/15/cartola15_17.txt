@@ -1,0 +1,159 @@
+vasco	
+ZAG
+Rodrigo
+Nulo	
+desabilitado
+14	C$ 18.38	-1.24	4.00	-1.40	
+escudo corinthiansXescudo vasco
+13	50	0	0	10	5	1	1	0
+vasco	
+MEI
+Guiñazu
+Nulo	
+desabilitado
+14	C$ 15.54	0.89	2.77	5.50	
+escudo corinthiansXescudo vasco
+15	19	0	0	0	3	0	0	0
+vasco	
+GOL
+Martín Silva
+Nulo	
+desabilitado
+5	C$ 14.74	-3.77	2.38	-6.00	
+escudo corinthiansXescudo vasco
+1	2	0	0	0	0	0	0	0
+vasco	
+ZAG
+Luan
+Nulo	
+desabilitado
+8	C$ 14.58	0.00	1.87	0.00	
+escudo corinthiansXescudo vasco
+10	32	0	0	1	2	0	0	0
+vasco	
+LAT
+Madson
+Suspenso	
+desabilitado
+15	C$ 10.83	-0.98	1.51	-4.60	
+escudo corinthiansXescudo vasco
+23	51	1	0	1	1	0	3	0
+vasco	
+ATA
+Herrera
+Nulo	
+desabilitado
+3	C$ 10.12	1.07	1.23	4.80	
+escudo corinthiansXescudo vasco
+3	5	0	1	1	0	0	3	0
+vasco	
+LAT
+Christiano
+Nulo	
+desabilitado
+11	C$ 10.11	0.00	3.01	0.00	
+escudo corinthiansXescudo vasco
+14	32	0	1	2	7	0	1	0
+vasco	
+TEC
+Celso Roth
+Nulo	
+desabilitado
+7	C$ 9.46	-0.26	2.09	1.55	
+escudo corinthiansXescudo vasco
+-	-	-	-	-	-	-	-	-
+vasco	
+MEI
+Julio Dos Santos
+Nulo	
+desabilitado
+9	C$ 9.27	0.00	1.12	0.00	
+escudo corinthiansXescudo vasco
+4	25	0	0	1	3	0	0	0
+vasco	
+ATA
+Riascos
+Nulo	
+desabilitado
+11	C$ 8.77	1.52	3.62	7.90	
+escudo corinthiansXescudo vasco
+16	22	0	0	4	10	3	2	0
+vasco	
+ATA
+Thalles
+Nulo	
+desabilitado
+7	C$ 7.74	0.00	0.90	0.00	
+escudo corinthiansXescudo vasco
+6	1	0	0	0	1	0	0	0
+vasco	
+MEI
+Emanuel Biancucchi
+Nulo	
+desabilitado
+6	C$ 6.97	0.00	1.42	0.00	
+escudo corinthiansXescudo vasco
+9	10	0	0	2	3	1	0	0
+vasco	
+MEI
+Serginho
+Nulo	
+desabilitado
+11	C$ 6.96	1.01	2.37	6.50	
+escudo corinthiansXescudo vasco
+10	34	2	0	1	2	0	0	0
+vasco	
+MEI
+Lucas
+Nulo	
+desabilitado
+7	C$ 6.68	0.00	1.17	0.00	
+escudo corinthiansXescudo vasco
+1	10	0	0	1	0	1	1	0
+vasco	
+MEI
+Andrezinho
+Nulo	
+desabilitado
+4	C$ 6.66	-1.11	3.72	1.90	
+escudo corinthiansXescudo vasco
+8	7	0	0	1	0	1	0	0
+vasco	
+ATA
+Dagoberto
+Nulo	
+desabilitado
+7	C$ 6.30	-1.64	0.02	-3.30	
+escudo corinthiansXescudo vasco
+14	15	1	0	3	0	0	2	0
+vasco	
+ZAG
+Anderson Salles
+Nulo	
+desabilitado
+7	C$ 6.29	0.52	2.40	3.70	
+escudo corinthiansXescudo vasco
+6	18	0	1	1	2	0	0	0
+vasco	
+MEI
+Jean Patrick
+Nulo	
+desabilitado
+0	C$ 6.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco
+0	0	0	0	0	0	0	0	0
+vasco	
+MEI
+Diguinho
+Contundido	
+desabilitado
+3	C$ 5.60	0.00	2.17	0.00	
+escudo corinthiansXescudo vasco
+4	9	0	0	0	0	0	0	0
+vasco	
+LAT
+Henrique
+Contundido	
+desabilitado
+0	C$ 5.00	0.00	0.00	0.00	
+escudo corinthiansXescudo vasco

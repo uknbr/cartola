@@ -1,0 +1,95 @@
+atlético-pr	
+MEI
+Daniel Hernández
+Provável	
+desabilitado
+11	C$ 3.17	0.00	0.39	0.00	
+escudo são pauloXescudo atlético-pr
+6	36	2	0	7	1	0	0	0
+flamengo	
+GOL
+César
+Provável	
+desabilitado
+12	C$ 3.11	0.00	0.52	0.00	
+escudo flamengoXescudo joinville
+2	9	0	0	0	0	0	0	0
+atlético-pr	
+ATA
+Crysan
+Provável	
+desabilitado
+10	C$ 3.07	0.65	0.74	3.70	
+escudo são pauloXescudo atlético-pr
+7	19	1	0	3	2	0	4	0
+são paulo	
+LAT
+Matheus
+Provável	
+desabilitado
+10	C$ 2.83	0.36	3.62	1.60	
+escudo são pauloXescudo atlético-pr
+14	11	1	0	0	0	0	0	0
+ponte preta	
+MEI
+Juninho
+Provável	
+desabilitado
+17	C$ 2.80	0.00	1.27	0.00	
+escudo ponte pretaXescudo corinthians
+11	33	0	0	2	3	0	1	0
+coritiba	
+MEI
+João Paulo
+Provável	
+desabilitado
+23	C$ 2.76	-0.98	0.87	-2.70	
+escudo coritibaXescudo atlético-mg
+18	64	0	0	5	2	0	0	0
+avaí	
+MEI
+Rudnei
+Provável	
+desabilitado
+4	C$ 2.62	-0.36	2.40	-0.70	
+escudo avaíXescudo vasco
+7	11	0	0	1	1	0	0	0
+avaí	
+ZAG
+Antonio Carlos
+Provável	
+desabilitado
+20	C$ 2.49	-0.09	1.36	0.90	
+escudo avaíXescudo vasco
+19	43	1	0	3	5	0	0	0
+santos	
+ZAG
+Gustavo Henrique
+Provável	
+vender jogador
+14	C$ 2.47	0.01	3.10	2.10	
+escudo santosXescudo fluminense
+11	22	0	0	3	3	0	0	0
+figueirense	
+MEI
+Yago
+Provável	
+desabilitado
+18	C$ 2.27	-0.45	1.05	-3.90	
+escudo goiásXescudo figueirense
+19	39	3	0	2	3	0	0	0
+vasco	
+ZAG
+Rafael Vaz
+Provável	
+desabilitado
+4	C$ 2.24	-1.12	4.85	0.00	
+escudo avaíXescudo vasco
+1	1	0	1	0	0	1	0	0
+figueirense	
+ZAG
+Bruno Alves
+Provável	
+desabilitado
+16	C$ 0.83	0.00	0.57	0.00	
+escudo goiásXescudo figueirense

@@ -1,0 +1,87 @@
+joinville	
+ZAG
+Dankler
+Provável	
+desabilitado
+9	C$ 2.30	-0.14	0.94	-0.60	
+escudo santosXescudo joinville
+1	22	0	0	1	2	0	0	0
+atlético-pr	
+ATA
+Crysan
+Provável	
+desabilitado
+1	C$ 2.27	-0.73	-0.90	-0.90	
+escudo avaíXescudo atlético-pr
+1	3	0	0	1	0	0	2	0
+joinville	
+LAT
+Diego
+Provável	
+desabilitado
+7	C$ 1.94	-0.63	1.93	-2.30	
+escudo santosXescudo joinville
+9	25	1	0	2	3	0	3	0
+avaí	
+ZAG
+Jéci
+Provável	
+desabilitado
+11	C$ 1.91	-0.10	-0.25	-1.70	
+escudo avaíXescudo atlético-pr
+7	24	0	0	3	3	0	1	0
+joinville	
+MEI
+Fabrício
+Provável	
+desabilitado
+5	C$ 1.87	0.13	-1.18	-0.70	
+escudo santosXescudo joinville
+4	12	0	0	1	0	0	0	0
+santos	
+ATA
+Nilson
+Provável	
+desabilitado
+3	C$ 1.78	-0.37	0.80	-0.30	
+escudo santosXescudo joinville
+0	1	0	0	1	0	0	0	0
+internacional	
+MEI
+Zé Mário
+Provável	
+desabilitado
+2	C$ 1.26	-2.01	-1.35	-4.40	
+escudo ponte pretaXescudo internacional
+0	3	0	0	0	0	0	0	0
+joinville	
+MEI
+Naldo
+Provável	
+desabilitado
+10	C$ 1.25	0.44	0.10	2.40	
+escudo santosXescudo joinville
+2	20	0	1	1	3	0	0	0
+grêmio	
+ZAG
+Rafael Thyere
+Provável	
+desabilitado
+0	C$ 1.00	0.00	0.00	0.00	
+escudo grêmioXescudo sport
+0	0	0	0	0	0	0	0	0
+goiás	
+LAT
+Gimenez
+Provável	
+desabilitado
+1	C$ 0.82	-0.18	-1.20	-1.20	
+escudo goiásXescudo flamengo
+1	2	0	0	0	1	0	0	0
+vasco	
+GOL
+Jordi
+Provável	
+desabilitado
+2	C$ 0.82	0.01	-2.90	-1.30	
+escudo vascoXescudo palmeiras

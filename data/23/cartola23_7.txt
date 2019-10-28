@@ -1,0 +1,159 @@
+goiás	
+MEI
+David
+Provável	
+desabilitado
+12	C$ 8.46	-0.56	1.54	3.80	
+escudo goiásXescudo sport
+5	34	2	0	1	2	0	0	0
+joinville	
+ZAG
+Bruno Aguiar
+Provável	
+desabilitado
+13	C$ 8.35	0.12	4.23	5.00	
+escudo joinvilleXescudo chapecoense
+8	16	0	0	1	3	2	0	0
+joinville	
+MEI
+Marcelinho Paraíba
+Provável	
+desabilitado
+17	C$ 8.27	-0.05	3.01	-0.40	
+escudo joinvilleXescudo chapecoense
+9	59	2	0	5	8	4	5	0
+goiás	
+ZAG
+Alex Alves
+Provável	
+desabilitado
+10	C$ 8.17	-0.40	2.38	0.00	
+escudo goiásXescudo sport
+4	6	0	0	0	2	0	1	0
+vasco	
+MEI
+Julio Dos Santos
+Provável	
+desabilitado
+15	C$ 8.17	-0.46	0.96	-0.50	
+escudo ponte pretaXescudo vasco
+13	51	0	0	3	3	0	0	0
+atlético-mg	
+MEI
+Giovanni Augusto
+Provável	
+vender jogador
+19	C$ 8.15	-0.52	4.01	1.90	
+escudo atlético-mgXescudo avaí
+27	62	4	1	7	7	3	0	0
+são paulo	
+ATA
+Rogério
+Provável	
+desabilitado
+1	C$ 8.12	4.12	14.80	14.80	
+escudo santosXescudo são paulo
+3	5	0	0	1	1	1	0	0
+internacional	
+TEC
+Argel Fucks
+Provável	
+desabilitado
+22	C$ 8.12	-1.18	3.38	1.08	
+escudo internacionalXescudo palmeiras
+-	-	-	-	-	-	-	-	-
+grêmio	
+MEI
+Douglas
+Provável	
+desabilitado
+18	C$ 8.11	0.65	0.86	2.60	
+escudo corinthiansXescudo grêmio
+15	100	2	0	6	17	3	0	2
+joinville	
+ATA
+Edigar Junio
+Provável	
+desabilitado
+11	C$ 8.08	0.00	5.09	0.00	
+escudo joinvilleXescudo chapecoense
+22	13	2	3	3	6	1	0	0
+ponte preta	
+MEI
+Josimar
+Provável	
+desabilitado
+14	C$ 7.95	1.28	1.88	7.40	
+escudo ponte pretaXescudo vasco
+15	52	1	0	2	6	0	0	0
+santos	
+MEI
+Marquinhos Gabriel
+Provável	
+desabilitado
+14	C$ 7.86	-0.17	2.15	3.00	
+escudo santosXescudo são paulo
+15	28	2	0	0	6	0	3	0
+coritiba	
+ZAG
+Luccas Claro
+Provável	
+desabilitado
+14	C$ 7.79	0.00	3.23	0.00	
+escudo coritibaXescudo fluminense
+10	32	0	0	3	2	0	1	0
+flamengo	
+ZAG
+Samir
+Provável	
+desabilitado
+12	C$ 7.79	-1.51	2.78	-1.10	
+escudo flamengoXescudo cruzeiro
+12	10	0	0	0	6	0	0	0
+coritiba	
+LAT
+Carlinhos
+Provável	
+desabilitado
+5	C$ 7.57	-0.11	5.76	5.30	
+escudo coritibaXescudo fluminense
+11	20	0	0	0	1	0	0	0
+chapecoense	
+ATA
+Bruno Rangel
+Provável	
+desabilitado
+13	C$ 7.56	-0.69	5.21	3.70	
+escudo joinvilleXescudo chapecoense
+7	6	0	1	4	9	7	5	0
+grêmio	
+ZAG
+Pedro Geromel
+Provável	
+vender jogador
+21	C$ 7.50	-0.44	3.09	2.00	
+escudo corinthiansXescudo grêmio
+15	38	0	1	0	3	0	4	0
+internacional	
+MEI
+Rodrigo Dourado
+Provável	
+desabilitado
+15	C$ 7.45	1.25	4.24	6.60	
+escudo internacionalXescudo palmeiras
+12	30	2	0	1	5	0	2	0
+sport	
+LAT
+Renê
+Provável	
+desabilitado
+21	C$ 7.41	-0.91	4.07	-0.90	
+escudo goiásXescudo sport
+22	93	3	0	3	2	1	0	0
+goiás	
+LAT
+Diogo Barbosa
+Provável	
+desabilitado
+18	C$ 7.40	0.53	3.47	6.30	
+escudo goiásXescudo sport

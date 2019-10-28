@@ -1,0 +1,114 @@
+
+***************** cartola_files.sh [2015-12-22 20:38:56] *****************
+[+] Running from host: pedro-NOTE (creating tunnel)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_30.txt)
+[+] Processing files
+[+] Generating CSV (round30.csv)
+[+] Generating SQL (round30.sql)
+[*] ------> Summary <------
+[*] Detected round: 30
+[*] Detected date: 2015-10-17
+[*] Detected teams: 0
+[*] Detected players: 14
+[*] Detected scouts: 223
+[*] Detected matches: 10
+[*] Detected statistics: 217
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-22 20:39:27] *****************
+
+***************** cartola_files.sh [2015-12-23 00:03:38] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_30.txt)
+[+] Processing files
+[+] Generating CSV (round30.csv)
+[+] Generating SQL (round30.sql)
+[*] ------> Summary <------
+[*] Detected round: 30
+[*] Detected date: 2015-10-17
+[*] Detected teams: 0
+[*] Detected players: 6
+[*] Detected scouts: 223
+[*] Detected matches: 10
+[*] Detected statistics: 222
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-23 00:04:05] *****************
+
+***************** cartola_db.sh [2015-12-23 00:04:06] *****************
+[+] LOG: ../log/round30.log
+[+] SQL: ../output/round30.sql
+[+] TYPE: player
+[+] LINES: 6
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (660 lines)
+***************** cartola_db.sh [2015-12-23 00:04:12] *****************
+
+***************** cartola_files.sh [2015-12-23 00:04:13] *****************
+[+] Running from host: pedro-NOTE (tunnel is running)
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Checking files
+[+] Fetching information from DB
+[+] Including score file (score_30.txt)
+[+] Processing files
+[+] Generating CSV (round30.csv)
+[+] Generating SQL (round30.sql)
+[*] ------> Summary <------
+[*] Detected round: 30
+[*] Detected date: 2015-10-17
+[*] Detected teams: 0
+[*] Detected players: 0
+[*] Detected scouts: 224
+[*] Detected matches: 10
+[*] Detected statistics: 224
+[*] Detected score: 10
+***************** cartola_files.sh [2015-12-23 00:04:40] *****************
+
+***************** cartola_db.sh [2015-12-23 00:04:41] *****************
+[+] LOG: ../log/round30.log
+[+] SQL: ../output/round30.sql
+[+] TYPE: match
+[+] LINES: 10
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (276 lines)
+***************** cartola_db.sh [2015-12-23 00:04:48] *****************
+
+***************** cartola_db.sh [2015-12-23 00:04:49] *****************
+[+] LOG: ../log/round30.log
+[+] SQL: ../output/round30.sql
+[+] TYPE: round
+[+] LINES: 224
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (6240 lines)
+***************** cartola_db.sh [2015-12-23 00:05:52] *****************
+
+***************** cartola_db.sh [2015-12-23 00:05:53] *****************
+[+] LOG: ../log/round30.log
+[+] SQL: ../output/round30.sql
+[+] TYPE: stat
+[+] LINES: 224
+[+] Connection working [pedro-NOTE <---> MYHOST]
+[+] Starting...
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully (6240 lines)
+***************** cartola_db.sh [2015-12-23 00:06:56] *****************
+
+***************** cartola_db.sh [2015-12-23 00:06:57] *****************
+[+] LOG: ../log/round30.log
+[+] SQL: ../output/round30.sql
+[+] TYPE: score
+[+] LINES: 10
+[+] Connection working [pedro-NOTE <---> MYHOST]
+Warning: Using a password on the command line interface can be insecure.
+[+] Data has been inserted successfully
+***************** cartola_db.sh [2015-12-23 00:07:01] *****************

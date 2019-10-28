@@ -1,0 +1,159 @@
+coritiba	
+TEC
+Ney Franco
+Provável	
+desabilitado
+26	C$ 8.77	-0.25	3.25	1.62	
+escudo coritibaXescudo figueirense
+-	-	-	-	-	-	-	-	-
+figueirense	
+MEI
+Juninho
+Provável	
+desabilitado
+7	C$ 8.56	0.12	1.24	3.70	
+escudo coritibaXescudo figueirense
+9	19	0	0	2	0	0	0	0
+são paulo	
+MEI
+Thiago Mendes
+Provável	
+desabilitado
+28	C$ 8.51	0.43	3.28	6.30	
+escudo são pauloXescudo sport
+45	73	2	0	6	8	0	4	0
+cruzeiro	
+LAT
+Fabrício
+Provável	
+desabilitado
+20	C$ 8.41	0.47	2.08	6.40	
+escudo avaíXescudo cruzeiro
+21	66	0	0	5	2	1	2	0
+santos	
+MEI
+Marquinhos Gabriel
+Provável	
+desabilitado
+23	C$ 8.37	-1.49	3.31	0.60	
+escudo santosXescudo palmeiras
+33	55	3	0	4	12	3	8	0
+são paulo	
+ATA
+Alan Kardec
+Provável	
+desabilitado
+2	C$ 8.34	0.90	2.85	5.30	
+escudo são pauloXescudo sport
+2	5	0	0	0	1	1	1	0
+sport	
+MEI
+Marlone
+Provável	
+desabilitado
+26	C$ 8.28	0.71	3.48	8.00	
+escudo são pauloXescudo sport
+34	78	6	0	12	18	3	3	0
+internacional	
+MEI
+Anderson
+Provável	
+desabilitado
+23	C$ 8.26	-0.76	1.31	-2.90	
+escudo goiásXescudo internacional
+22	79	2	0	5	3	0	2	0
+chapecoense	
+MEI
+Bruno Silva
+Provável	
+desabilitado
+27	C$ 8.25	0.04	1.21	0.30	
+escudo chapecoenseXescudo atlético-pr
+14	80	0	1	6	8	1	5	0
+internacional	
+GOL
+Alisson
+Provável	
+desabilitado
+20	C$ 8.19	0.20	4.04	8.50	
+escudo goiásXescudo internacional
+2	9	0	0	0	0	0	0	0
+vasco	
+MEI
+Julio Dos Santos
+Provável	
+desabilitado
+23	C$ 8.15	0.33	0.85	1.30	
+escudo vascoXescudo fluminense
+23	72	0	0	3	4	0	0	0
+sport	
+LAT
+Samuel Xavier
+Provável	
+desabilitado
+25	C$ 8.12	0.55	2.18	6.50	
+escudo são pauloXescudo sport
+26	81	2	0	0	5	1	0	0
+internacional	
+MEI
+Nilton
+Provável	
+desabilitado
+22	C$ 7.95	0.50	0.96	3.50	
+escudo goiásXescudo internacional
+19	59	1	0	4	17	2	2	0
+chapecoense	
+MEI
+Cleber Santana
+Provável	
+desabilitado
+21	C$ 7.95	0.00	2.40	0.00	
+escudo chapecoenseXescudo atlético-pr
+15	66	3	0	5	10	1	0	0
+grêmio	
+MEI
+Douglas
+Provável	
+desabilitado
+26	C$ 7.90	-1.22	1.50	-0.30	
+escudo grêmioXescudo flamengo
+20	138	4	0	6	21	5	0	2
+goiás	
+LAT
+Diogo Barbosa
+Provável	
+desabilitado
+24	C$ 7.89	1.39	3.25	8.70	
+escudo goiásXescudo internacional
+26	83	0	0	2	8	0	2	0
+internacional	
+LAT
+William
+Provável	
+desabilitado
+22	C$ 7.88	-0.64	4.67	5.20	
+escudo goiásXescudo internacional
+25	72	2	0	2	1	0	2	0
+atlético-mg	
+LAT
+Douglas Santos
+Provável	
+desabilitado
+25	C$ 7.83	0.98	2.82	5.50	
+escudo atlético-mgXescudo corinthians
+13	73	3	0	2	10	0	2	0
+joinville	
+MEI
+Marcelinho Paraíba
+Provável	
+desabilitado
+24	C$ 7.79	-3.14	2.85	-3.90	
+escudo ponte pretaXescudo joinville
+11	88	4	1	10	17	5	7	0
+cruzeiro	
+MEI
+Charles
+Provável	
+desabilitado
+22	C$ 7.69	-0.84	2.64	-0.50	
+escudo avaíXescudo cruzeiro

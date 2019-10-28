@@ -1,0 +1,47 @@
+joinville	
+ATA
+Kempes
+Provável	
+desabilitado
+5	C$ 1.87	0.36	-1.16	0.70	
+escudo sportXescudo joinville
+4	8	0	0	1	2	0	4	0
+avaí	
+ATA
+Rômulo
+Provável	
+desabilitado
+3	C$ 1.81	1.00	1.13	4.20	
+escudo avaíXescudo figueirense
+1	2	0	0	0	0	1	0	0
+goiás	
+MEI
+Péricles
+Provável	
+desabilitado
+4	C$ 1.63	0.00	0.10	0.00	
+escudo ponte pretaXescudo goiás
+5	9	0	0	0	3	0	0	0
+coritiba	
+LAT
+Henrique
+Provável	
+desabilitado
+2	C$ 0.82	-0.66	-1.50	-4.80	
+escudo coritibaXescudo flamengo
+0	9	0	0	1	0	0	0	0
+figueirense	
+ZAG
+Bruno Alves
+Provável	
+desabilitado
+5	C$ 0.82	0.01	-1.14	-0.50	
+escudo avaíXescudo figueirense
+2	6	0	0	0	0	0	0	0
+vasco	
+GOL
+Jordi
+Provável	
+desabilitado
+1	C$ 0.81	0.00	-4.50	0.00	
+escudo vascoXescudo cruzeiro

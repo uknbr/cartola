@@ -1,0 +1,63 @@
+figueirense	
+MEI
+Dener
+Provável	
+desabilitado
+8	C$ 2.22	-1.07	1.40	-3.00	
+escudo cruzeiroXescudo figueirense
+5	28	0	0	0	2	0	0	0
+são paulo	
+MEI
+João Schmidt
+Provável	
+desabilitado
+2	C$ 1.78	0.00	0.25	0.00	
+escudo são pauloXescudo internacional
+1	8	0	0	0	0	0	0	0
+avaí	
+ZAG
+Antonio Carlos
+Provável	
+desabilitado
+14	C$ 1.60	-2.07	1.23	-3.20	
+escudo avaíXescudo coritiba
+9	35	1	0	2	4	0	0	0
+santos	
+ZAG
+Gustavo Henrique
+Provável	
+desabilitado
+8	C$ 1.57	-0.73	2.37	1.00	
+escudo sportXescudo santos
+6	14	0	0	1	2	0	0	0
+atlético-mg	
+LAT
+Pedro Botelho
+Provável	
+desabilitado
+4	C$ 1.32	0.00	1.15	0.00	
+escudo vascoXescudo atlético-mg
+3	10	0	0	0	1	0	0	0
+figueirense	
+ZAG
+Bruno Alves
+Provável	
+desabilitado
+12	C$ 1.20	-0.48	1.18	-1.30	
+escudo cruzeiroXescudo figueirense
+4	14	0	0	1	4	1	0	0
+vasco	
+LAT
+Bruno Ferreira
+Provável	
+desabilitado
+1	C$ 1.09	-0.91	-1.10	-1.10	
+escudo vascoXescudo atlético-mg
+2	2	0	0	0	0	0	1	0
+vasco	
+GOL
+Jordi
+Provável	
+desabilitado
+5	C$ 0.81	-0.02	-3.34	-9.30	
+escudo vascoXescudo atlético-mg

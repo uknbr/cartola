@@ -1,0 +1,143 @@
+são paulo	
+GOL
+Renan Ribeiro
+Provável	
+desabilitado
+3	C$ 3.41	1.38	3.50	7.10	
+escudo são pauloXescudo ponte preta
+0	5	0	0	0	0	0	0	0
+figueirense	
+ATA
+Dudu
+Provável	
+desabilitado
+10	C$ 3.35	0.81	1.25	3.10	
+escudo vascoXescudo figueirense
+13	20	0	1	4	2	3	6	0
+joinville	
+LAT
+Diego
+Provável	
+desabilitado
+12	C$ 3.22	0.27	2.62	1.40	
+escudo palmeirasXescudo joinville
+17	38	1	0	4	3	0	4	0
+coritiba	
+MEI
+Lúcio Flávio
+Provável	
+desabilitado
+11	C$ 3.13	-1.34	0.89	-2.60	
+escudo grêmioXescudo coritiba
+23	49	0	0	7	5	0	0	0
+flamengo	
+GOL
+César
+Provável	
+desabilitado
+12	C$ 3.11	0.87	0.52	-2.00	
+escudo sportXescudo flamengo
+2	9	0	0	0	0	0	0	0
+figueirense	
+ZAG
+Bruno Alves
+Provável	
+desabilitado
+10	C$ 3.11	2.28	1.40	10.60	
+escudo vascoXescudo figueirense
+4	11	0	0	1	4	1	0	0
+avaí	
+ZAG
+Emerson
+Provável	
+desabilitado
+13	C$ 3.04	0.00	1.85	0.00	
+escudo avaíXescudo internacional
+6	33	0	0	3	5	1	0	0
+figueirense	
+MEI
+Dener
+Provável	
+desabilitado
+6	C$ 2.77	-0.05	1.87	0.00	
+escudo vascoXescudo figueirense
+3	22	0	0	0	1	0	0	0
+joinville	
+MEI
+Kadu
+Provável	
+desabilitado
+5	C$ 2.76	-1.24	2.20	-0.60	
+escudo palmeirasXescudo joinville
+2	16	0	0	1	3	0	0	0
+são paulo	
+ZAG
+Lucão
+Provável	
+desabilitado
+10	C$ 2.61	-0.34	2.65	-2.00	
+escudo são pauloXescudo ponte preta
+4	31	1	0	1	0	0	0	0
+flamengo	
+ZAG
+Marcelo
+Provável	
+desabilitado
+8	C$ 2.60	0.00	1.81	0.00	
+escudo sportXescudo flamengo
+4	19	0	0	1	0	0	1	0
+coritiba	
+MEI
+João Paulo
+Provável	
+desabilitado
+16	C$ 2.51	-1.04	0.86	-4.20	
+escudo grêmioXescudo coritiba
+11	47	0	0	2	1	0	0	0
+avaí	
+GOL
+Diego
+Provável	
+desabilitado
+4	C$ 2.36	0.40	0.50	-1.00	
+escudo avaíXescudo internacional
+0	0	0	0	0	0	0	0	0
+joinville	
+MEI
+Naldo
+Provável	
+desabilitado
+16	C$ 2.32	-0.03	1.56	2.50	
+escudo palmeirasXescudo joinville
+4	34	1	1	1	5	0	0	0
+avaí	
+ZAG
+Antonio Carlos
+Provável	
+desabilitado
+12	C$ 1.85	-0.43	0.93	-0.50	
+escudo avaíXescudo internacional
+8	30	0	0	2	4	0	0	0
+atlético-pr	
+ZAG
+Wellington
+Provável	
+desabilitado
+1	C$ 1.75	0.00	4.40	0.00	
+escudo atlético-prXescudo goiás
+0	2	0	0	0	0	0	0	0
+fluminense	
+GOL
+Júlio César
+Provável	
+desabilitado
+1	C$ 1.45	-0.55	-1.00	-1.00	
+escudo fluminenseXescudo atlético-mg
+0	0	0	0	0	0	0	0	0
+santos	
+ZAG
+Gustavo Henrique
+Provável	
+desabilitado
+6	C$ 1.09	-0.81	2.03	-0.70	
+escudo cruzeiroXescudo santos

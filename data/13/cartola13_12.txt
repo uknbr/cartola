@@ -1,0 +1,111 @@
+coritiba	
+MEI
+Misael
+Provável	
+desabilitado
+3	C$ 2.79	0.07	1.63	1.40	
+escudo figueirenseXescudo coritiba
+4	4	0	0	2	2	0	0	0
+joinville	
+GOL
+Agenor
+Provável	
+desabilitado
+7	C$ 2.64	-2.43	2.54	-3.50	
+escudo joinvilleXescudo ponte preta
+1	9	0	0	0	0	0	0	0
+joinville	
+LAT
+Diego
+Provável	
+desabilitado
+6	C$ 2.57	-1.79	2.63	0.80	
+escudo joinvilleXescudo ponte preta
+8	19	1	0	2	3	0	3	0
+flamengo	
+GOL
+César
+Provável	
+desabilitado
+6	C$ 2.46	-0.63	0.07	-4.20	
+escudo flamengoXescudo grêmio
+1	7	0	0	0	0	0	0	0
+santos	
+ZAG
+Paulo Ricardo
+Provável	
+desabilitado
+3	C$ 2.36	0.85	3.30	6.00	
+escudo palmeirasXescudo santos
+1	6	0	0	0	1	0	0	0
+avaí	
+ATA
+Romulo
+Provável	
+desabilitado
+9	C$ 2.29	0.16	1.65	2.10	
+escudo cruzeiroXescudo avaí
+6	10	0	0	4	4	1	1	0
+flamengo	
+ZAG
+Marcelo
+Provável	
+desabilitado
+5	C$ 2.25	0.14	0.96	-0.10	
+escudo flamengoXescudo grêmio
+4	14	0	0	0	0	0	1	0
+avaí	
+ZAG
+Jéci
+Provável	
+desabilitado
+10	C$ 2.01	-0.53	-0.10	-1.80	
+escudo cruzeiroXescudo avaí
+7	20	0	0	3	3	0	1	0
+coritiba	
+ZAG
+Walisson
+Provável	
+desabilitado
+0	C$ 2.00	0.00	0.00	0.00	
+escudo figueirenseXescudo coritiba
+0	0	0	0	0	0	0	0	0
+joinville	
+MEI
+Fabrício
+Provável	
+desabilitado
+4	C$ 1.74	-0.24	-1.30	-2.70	
+escudo joinvilleXescudo ponte preta
+3	8	0	0	1	0	0	0	0
+figueirense	
+ZAG
+Bruno Alves
+Provável	
+desabilitado
+7	C$ 1.31	0.07	0.17	2.60	
+escudo figueirenseXescudo coritiba
+2	8	0	0	0	0	0	0	0
+joinville	
+MEI
+Naldo
+Provável	
+desabilitado
+9	C$ 0.81	0.00	-0.15	0.00	
+escudo joinvilleXescudo ponte preta
+1	17	0	1	1	0	0	0	0
+vasco	
+GOL
+Charles
+Provável	
+desabilitado
+9	C$ 0.81	0.00	-0.32	-4.00	
+escudo fluminenseXescudo vasco
+1	1	0	0	0	0	0	0	0
+coritiba	
+MEI
+Fabrício Baiano
+Provável	
+desabilitado
+4	C$ 0.81	-0.01	-1.43	0.00	
+escudo figueirenseXescudo coritiba

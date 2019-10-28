@@ -1,0 +1,159 @@
+vasco	
+ATA
+Nenê
+Provável	
+desabilitado
+2	C$ 7.70	-0.46	-0.35	-0.40	
+escudo vascoXescudo figueirense
+4	16	0	0	1	3	0	0	0
+figueirense	
+ATA
+Clayton
+Provável	
+desabilitado
+12	C$ 7.70	-0.83	2.26	3.10	
+escudo vascoXescudo figueirense
+17	39	3	0	5	6	2	15	0
+joinville	
+ZAG
+Bruno Aguiar
+Provável	
+desabilitado
+10	C$ 7.69	-0.89	4.39	1.90	
+escudo palmeirasXescudo joinville
+8	12	0	0	1	3	2	0	0
+grêmio	
+MEI
+Douglas
+Provável	
+desabilitado
+16	C$ 7.68	-0.97	0.90	-1.50	
+escudo grêmioXescudo coritiba
+15	79	2	0	5	12	2	0	1
+grêmio	
+ZAG
+Pedro Geromel
+Provável	
+desabilitado
+18	C$ 7.59	0.71	2.58	5.50	
+escudo grêmioXescudo coritiba
+13	34	0	0	0	3	0	3	0
+ponte preta	
+ATA
+Felipe Azevedo
+Provável	
+desabilitado
+20	C$ 7.57	1.78	2.32	7.40	
+escudo são pauloXescudo ponte preta
+33	71	0	1	9	14	3	1	0
+figueirense	
+LAT
+Marquinhos Pedroso
+Provável	
+desabilitado
+13	C$ 7.57	-0.15	3.22	0.60	
+escudo vascoXescudo figueirense
+24	27	1	0	2	0	0	0	0
+coritiba	
+LAT
+Carlinhos
+Provável	
+desabilitado
+2	C$ 7.57	0.45	4.75	8.50	
+escudo grêmioXescudo coritiba
+6	6	0	0	0	1	0	0	0
+joinville	
+LAT
+Mário Sérgio
+Provável	
+desabilitado
+10	C$ 7.47	0.77	4.13	6.50	
+escudo palmeirasXescudo joinville
+13	38	0	0	2	3	1	0	0
+internacional	
+MEI
+Nilton
+Provável	
+desabilitado
+12	C$ 7.45	-0.19	0.36	-0.60	
+escudo avaíXescudo internacional
+11	31	1	0	1	7	0	1	0
+sport	
+LAT
+Samuel Xavier
+Provável	
+desabilitado
+18	C$ 7.45	0.80	2.62	-1.70	
+escudo sportXescudo flamengo
+20	55	1	0	0	3	1	0	0
+cruzeiro	
+LAT
+Fabrício
+Provável	
+desabilitado
+11	C$ 7.41	0.36	0.81	1.20	
+escudo cruzeiroXescudo santos
+17	44	0	0	3	2	0	2	0
+cruzeiro	
+ATA
+Alisson
+Provável	
+desabilitado
+9	C$ 7.24	-0.57	3.40	1.20	
+escudo cruzeiroXescudo santos
+10	11	2	0	4	5	1	5	0
+atlético-mg	
+LAT
+Douglas Santos
+Provável	
+desabilitado
+16	C$ 7.16	0.03	2.98	1.40	
+escudo fluminenseXescudo atlético-mg
+6	48	2	0	2	7	0	1	0
+atlético-mg	
+MEI
+Rafael Carioca
+Provável	
+desabilitado
+17	C$ 7.10	-0.09	2.85	1.90	
+escudo fluminenseXescudo atlético-mg
+23	42	1	0	2	6	0	0	0
+figueirense	
+GOL
+Felipe
+Provável	
+desabilitado
+2	C$ 7.07	0.28	-3.10	0.10	
+escudo vascoXescudo figueirense
+0	4	0	0	0	0	0	0	0
+flamengo	
+MEI
+Márcio Araújo
+Provável	
+desabilitado
+16	C$ 7.06	0.13	1.78	1.60	
+escudo sportXescudo flamengo
+25	30	0	0	0	6	0	0	0
+atlético-pr	
+ATA
+Douglas Coutinho
+Provável	
+desabilitado
+11	C$ 7.05	-0.05	1.64	0.50	
+escudo atlético-prXescudo goiás
+3	22	0	0	6	3	2	7	0
+avaí	
+LAT
+Pablo
+Provável	
+desabilitado
+17	C$ 7.04	-0.57	2.03	0.10	
+escudo avaíXescudo internacional
+38	48	0	0	1	5	0	2	0
+vasco	
+ATA
+Riascos
+Provável	
+desabilitado
+15	C$ 7.04	-0.46	2.69	-2.00	
+escudo vascoXescudo figueirense

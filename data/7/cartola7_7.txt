@@ -1,0 +1,159 @@
+cruzeiro	
+MEI
+Charles
+Provável	
+desabilitado
+6	C$ 8.07	1.33	2.42	5.70	
+escudo cruzeiroXescudo chapecoense
+2	17	0	0	0	1	2	0	0
+goiás	
+MEI
+Rodrigo
+Provável	
+desabilitado
+7	C$ 8.06	0.91	3.67	5.50	
+escudo joinvilleXescudo goiás
+6	8	0	0	2	1	1	0	0
+goiás	
+TEC
+Hélio Dos Anjos
+Provável	
+desabilitado
+7	C$ 8.05	1.45	3.23	5.89	
+escudo joinvilleXescudo goiás
+-	-	-	-	-	-	-	-	-
+chapecoense	
+TEC
+Vinícius Eutrópio
+Provável	
+desabilitado
+7	C$ 7.98	0.40	3.05	1.99	
+escudo cruzeiroXescudo chapecoense
+-	-	-	-	-	-	-	-	-
+atlético-pr	
+ATA
+Douglas Coutinho
+Provável	
+vender jogador
+7	C$ 7.96	-0.35	2.33	0.10	
+escudo atlético-prXescudo coritiba
+2	13	0	0	4	3	2	5	0
+goiás	
+LAT
+Rafael Forster
+Provável	
+desabilitado
+6	C$ 7.93	1.67	3.00	7.80	
+escudo joinvilleXescudo goiás
+6	23	0	0	1	0	0	0	0
+ponte preta	
+MEI
+Josimar
+Provável	
+desabilitado
+7	C$ 7.79	0.20	2.09	2.80	
+escudo fluminenseXescudo ponte preta
+8	22	1	0	1	4	0	0	0
+vasco	
+MEI
+Emanuel Biancucchi
+Provável	
+desabilitado
+2	C$ 7.77	0.48	1.10	2.40	
+escudo sportXescudo vasco
+5	4	0	0	2	1	0	0	0
+avaí	
+LAT
+Pablo
+Provável	
+desabilitado
+7	C$ 7.63	-0.27	2.63	2.40	
+escudo são pauloXescudo avaí
+20	25	0	0	0	4	0	0	0
+corinthians	
+ATA
+Mendoza
+Provável	
+desabilitado
+7	C$ 7.54	0.90	3.25	4.90	
+escudo santosXescudo corinthians
+13	19	0	0	0	3	1	0	0
+cruzeiro	
+ZAG
+Manoel
+Provável	
+desabilitado
+6	C$ 7.49	-0.31	2.82	-0.60	
+escudo cruzeiroXescudo chapecoense
+9	13	0	0	0	1	1	0	0
+flamengo	
+MEI
+Gabriel
+Provável	
+desabilitado
+7	C$ 7.45	-1.66	2.99	-0.50	
+escudo flamengoXescudo atlético-mg
+9	16	0	0	2	3	2	1	0
+coritiba	
+MEI
+Luís Cáceres
+Provável	
+desabilitado
+3	C$ 7.35	0.08	2.23	2.30	
+escudo atlético-prXescudo coritiba
+0	2	0	0	1	0	0	0	0
+santos	
+GOL
+Vladimir
+Provável	
+desabilitado
+6	C$ 7.26	0.00	1.88	0.00	
+escudo santosXescudo corinthians
+1	4	0	0	0	0	0	0	0
+flamengo	
+MEI
+Márcio Araújo
+Provável	
+desabilitado
+5	C$ 7.25	0.73	1.60	4.10	
+escudo flamengoXescudo atlético-mg
+10	9	0	0	0	1	0	0	0
+avaí	
+MEI
+Eduardo Costa
+Provável	
+desabilitado
+1	C$ 7.02	-0.98	1.70	1.70	
+escudo são pauloXescudo avaí
+0	0	0	0	0	0	0	0	0
+santos	
+ATA
+Gabriel
+Provável	
+desabilitado
+4	C$ 7.01	0.00	0.55	0.00	
+escudo santosXescudo corinthians
+1	6	0	0	1	4	0	2	0
+coritiba	
+MEI
+Hélder
+Provável	
+desabilitado
+6	C$ 6.94	0.01	1.02	0.50	
+escudo atlético-prXescudo coritiba
+9	16	0	2	3	1	0	1	0
+atlético-mg	
+MEI
+Rafael Carioca
+Provável	
+desabilitado
+5	C$ 6.92	0.00	4.02	0.00	
+escudo flamengoXescudo atlético-mg
+8	13	0	0	0	2	0	0	0
+ponte preta	
+ZAG
+Renato Chaves
+Provável	
+desabilitado
+1	C$ 6.76	0.00	5.90	0.00	
+escudo fluminenseXescudo ponte preta

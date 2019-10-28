@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <title>Brasileirão Cartola</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="author" content="Pedro Pavan" >
+    <link rel="shortcut icon" href="img/ball.png">
+
+    <link rel="stylesheet" href="cartola.css">
+
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+    <script type="text/javascript">
+		google.load('visualization', '1', {packages: ['corechart', 'bar']});
+		google.setOnLoadCallback(drawBarColors);
+		
+		function drawBarColors() {
+		      var data = google.visualization.arrayToDataTable([
+        		['Jogador', 'Gols', 'Impedimento'],
+	
+['Ricardo Oliveira (ATA)', 9,16],
+['Alexandre Pato (ATA)', 7,9],
+['Jadson (MEI)', 7,2],
+['André (ATA)', 6,11],
+['Rafael Marques (ATA)', 6,7],
+
+	   ]);
+
+      	var options = {
+          	chartArea: {width: '50%'},
+          	colors: ['#000099', '#CC0000'],
+          	hAxis: { minValue: 0 }
+      	};
+      	var chart = new google.visualization.BarChart(document.getElementById('chart_goals'));
+      	chart.draw(data, options);
+    	}
+    </script> 
+    
+	
+
+    <script type="text/javascript">
+		google.load('visualization', '1', {packages: ['corechart', 'bar']});
+		google.setOnLoadCallback(drawBarColors);
+		
+		function drawBarColors() {
+		      var data = google.visualization.arrayToDataTable([
+        		['Jogador', 'Finalizações defendidas', 'Finalizações para fora', 'Finalizações na trave'],	
+	
+['Lucas Pratto (ATA)', 19,13,4],
+['Walter (ATA)', 17,18,0],
+['Luan (ATA)', 14,15,2],
+['Felipe Menezes (MEI)', 14,7,0],
+['Biro Biro (ATA)', 14,12,0],
+
+	   ]);
+
+      	var options = {
+          	chartArea: {width: '50%'},
+          	colors: ['#000099', '#CC0000', '#009900'],
+          	hAxis: { minValue: 0 }
+      	};
+      	var chart = new google.visualization.BarChart(document.getElementById('chart_shots'));
+      	chart.draw(data, options);
+    	}
+    </script>	
+    
+	
+
+   <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Jogador', 'Assistencia'],
+    
+['Giuliano (MEI)', 6],
+['Diego Souza (MEI)', 5],
+['Dudu (ATA)', 4],
+['Rodinei (LAT)', 4],
+['Lucas Lima (MEI)', 4],
+
+        ]);
+
+        var options = { pieHole: 0.3 };
+        var chart = new google.visualization.PieChart(document.getElementById('chart_assists'));
+        chart.draw(data, options);
+      }
+    </script>
+</head>    
+    
+
+<body>
+
+<div id="top" class="bar bar-compact">
+    <table>
+        <tr>
+            <td id="site-logo">
+                <a href="/"><img src="img/cartola.png"></a>
+            </td>
+            <td>
+                <div id="site-name">
+                    <a href="/">BRASILEIRÃO CARTOLA 2015</a>
+                </div>
+                <div id="site-menu">
+                    <a href="/index.html">início</a>
+                    <a href="/standing.html">tabela</a>
+                    <a href="/top5.html">top5</a>
+                    <a href="/best.html">destaque</a>
+                    <a href="/record.html">recordes</a>
+				    <a href="/chart.html">gráficos</a>
+                    <a href="/about.html">sobre</a>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div id="main" class="bar">
+
+    <div id="header">
+		  <img style="display: inline;" src="img/chart.png" alt="Gráficos" />
+		  <h1 style="display: inline;">Gráficos</h1>
+    </div>
+
+	<div id="content">
+		<p>Veja estatísticas interessantes sobre o cartola.
+	
+
+		<h2>Gols/Impedimentos</h2>
+		<hr>
+		<div id="chart_goals"></div>
+		<br>
+		
+		<h2>Finalizações</h2>
+		<hr>
+		<div id="chart_shots"></div>
+		<br>		
+		
+		<h2>Assistências</h2>
+		<hr>
+		<div id="chart_assists"></div>
+		<br>		
+	
+
+	<p>Curtiu? Compartilhe com seus amigos cartoleiros!</p>
+	
+	<br>
+	<center>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=www.MYHOST/cartola"><img src="img/facebook.png" alt="Facebook" style="width:42px;height:42px;border:0;"></a>
+		<a href="https://twitter.com/home?status=www.MYHOST/cartola"><img src="img/twitter.png" alt="Twitter" style="width:42px;height:42px;border:0;"></a>
+		<a href="https://plus.google.com/share?url=www.MYHOST/cartola"><img src="img/google+.png" alt="Goodle Plus" style="width:42px;height:42px;border:0;"></a>
+	</center>
+
+</div>
+
+</body>
+</html>

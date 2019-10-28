@@ -1,0 +1,159 @@
+ponte preta	
+ZAG
+Pablo
+Provável	
+desabilitado
+12	C$ 8.61	0.21	3.27	3.50	
+escudo joinvilleXescudo ponte preta
+15	21	0	0	2	2	0	1	0
+cruzeiro	
+LAT
+Fabrício
+Provável	
+desabilitado
+6	C$ 8.51	1.20	1.78	4.80	
+escudo cruzeiroXescudo avaí
+12	25	0	0	3	0	0	2	0
+fluminense	
+ZAG
+Antônio Carlos
+Provável	
+desabilitado
+11	C$ 8.44	-0.70	2.83	-0.10	
+escudo fluminenseXescudo vasco
+9	22	0	0	2	0	0	2	0
+grêmio	
+MEI
+Douglas
+Provável	
+desabilitado
+9	C$ 8.35	0.22	1.01	0.70	
+escudo flamengoXescudo grêmio
+10	52	1	0	4	9	1	0	0
+goiás	
+TEC
+Julinho Camargo
+Provável	
+desabilitado
+1	C$ 8.32	-0.44	2.45	2.45	
+escudo internacionalXescudo goiás
+-	-	-	-	-	-	-	-	-
+coritiba	
+GOL
+Wilson
+Provável	
+desabilitado
+3	C$ 8.30	0.26	7.23	6.00	
+escudo figueirenseXescudo coritiba
+0	1	0	0	0	0	0	0	0
+internacional	
+ATA
+Rafael Moura
+Provável	
+desabilitado
+9	C$ 8.19	0.05	2.01	-2.00	
+escudo internacionalXescudo goiás
+5	6	1	1	4	6	1	3	0
+atlético-mg	
+LAT
+Douglas Santos
+Provável	
+desabilitado
+11	C$ 8.16	2.06	3.33	9.00	
+escudo corinthiansXescudo atlético-mg
+5	34	2	0	2	5	0	1	0
+internacional	
+MEI
+Nilton
+Provável	
+desabilitado
+7	C$ 8.16	-0.54	0.95	-0.10	
+escudo internacionalXescudo goiás
+8	17	1	0	0	5	0	1	0
+corinthians	
+ATA
+Malcom
+Provável	
+desabilitado
+7	C$ 8.12	0.27	3.89	5.60	
+escudo corinthiansXescudo atlético-mg
+19	23	0	2	8	1	0	0	0
+ponte preta	
+MEI
+Josimar
+Provável	
+desabilitado
+9	C$ 8.09	0.00	2.15	0.00	
+escudo joinvilleXescudo ponte preta
+9	32	1	0	2	4	0	0	0
+atlético-mg	
+MEI
+Maicosuel
+Provável	
+desabilitado
+11	C$ 8.01	-0.50	2.87	1.80	
+escudo corinthiansXescudo atlético-mg
+6	19	2	0	3	4	2	1	0
+goiás	
+MEI
+David
+Provável	
+desabilitado
+3	C$ 7.71	0.02	-0.37	-0.60	
+escudo internacionalXescudo goiás
+1	6	0	0	0	0	0	0	0
+avaí	
+ATA
+William
+Provável	
+desabilitado
+5	C$ 7.68	0.64	2.62	5.70	
+escudo cruzeiroXescudo avaí
+10	4	0	1	2	1	1	3	1
+atlético-mg	
+MEI
+Rafael Carioca
+Provável	
+desabilitado
+11	C$ 7.41	0.69	3.55	4.20	
+escudo corinthiansXescudo atlético-mg
+15	29	1	0	1	5	0	0	0
+coritiba	
+TEC
+Ney Franco
+Provável	
+desabilitado
+7	C$ 7.36	0.04	3.08	3.28	
+escudo figueirenseXescudo coritiba
+-	-	-	-	-	-	-	-	-
+joinville	
+ZAG
+Douglas Silva
+Provável	
+desabilitado
+6	C$ 7.18	0.55	4.05	7.30	
+escudo joinvilleXescudo ponte preta
+9	12	0	0	0	0	0	0	0
+figueirense	
+TEC
+Argel Fucks
+Provável	
+desabilitado
+12	C$ 7.17	-0.08	2.95	1.45	
+escudo figueirenseXescudo coritiba
+-	-	-	-	-	-	-	-	-
+vasco	
+ATA
+Riascos
+Provável	
+desabilitado
+9	C$ 7.17	-0.95	3.56	-0.90	
+escudo fluminenseXescudo vasco
+14	19	0	0	4	9	2	1	0
+chapecoense	
+MEI
+Cleber Santana
+Provável	
+desabilitado
+6	C$ 7.12	1.04	3.18	8.10	
+escudo atlético-prXescudo chapecoense

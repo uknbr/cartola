@@ -1,0 +1,159 @@
+são paulo	
+MEI
+Hudson
+Provável	
+desabilitado
+28	C$ 4.15	-0.85	1.83	4.10	
+escudo goiásXescudo são paulo
+12	48	2	0	5	1	0	0	0
+santos	
+MEI
+Leandrinho
+Provável	
+desabilitado
+5	C$ 4.12	-0.41	1.38	-0.50	
+escudo santosXescudo atlético-pr
+5	11	0	0	1	0	0	0	0
+fluminense	
+ATA
+Magno Alves
+Provável	
+desabilitado
+18	C$ 3.99	0.43	0.54	3.00	
+escudo figueirenseXescudo fluminense
+9	18	1	0	5	3	0	2	0
+fluminense	
+ATA
+Marcos Junior
+Provável	
+desabilitado
+30	C$ 3.95	-0.55	1.42	-1.40	
+escudo figueirenseXescudo fluminense
+58	55	1	0	11	9	5	6	0
+ponte preta	
+ATA
+Leandrinho
+Provável	
+desabilitado
+8	C$ 3.92	0.67	0.38	3.50	
+escudo ponte pretaXescudo sport
+1	4	0	0	1	4	0	3	0
+figueirense	
+MEI
+Yago
+Provável	
+desabilitado
+27	C$ 3.86	0.81	1.60	3.10	
+escudo figueirenseXescudo fluminense
+30	69	4	0	5	4	1	0	0
+flamengo	
+GOL
+Paulo Victor
+Provável	
+desabilitado
+24	C$ 3.86	0.00	1.49	0.00	
+escudo flamengoXescudo palmeiras
+5	23	0	0	0	0	0	0	0
+são paulo	
+ZAG
+Lucão
+Provável	
+desabilitado
+24	C$ 3.81	0.68	2.40	2.60	
+escudo goiásXescudo são paulo
+12	59	1	0	1	4	0	0	0
+ponte preta	
+ZAG
+Tiago Alves
+Provável	
+desabilitado
+12	C$ 3.81	-1.17	2.45	-0.60	
+escudo ponte pretaXescudo sport
+5	21	0	0	0	2	2	1	0
+cruzeiro	
+GOL
+Rafael
+Provável	
+desabilitado
+2	C$ 3.81	-1.63	-0.15	-4.00	
+escudo internacionalXescudo cruzeiro
+0	1	0	0	0	0	0	0	0
+avaí	
+GOL
+Vagner
+Provável	
+desabilitado
+33	C$ 3.79	-1.33	1.10	-0.50	
+escudo corinthiansXescudo avaí
+5	15	0	0	0	0	0	0	0
+avaí	
+ZAG
+Antonio Carlos
+Provável	
+desabilitado
+29	C$ 3.73	-2.08	2.54	2.60	
+escudo corinthiansXescudo avaí
+22	53	1	0	3	10	1	0	0
+avaí	
+LAT
+Romário
+Provável	
+desabilitado
+32	C$ 3.71	-0.21	1.47	2.20	
+escudo corinthiansXescudo avaí
+39	112	0	0	4	1	0	0	0
+joinville	
+LAT
+Diego
+Provável	
+desabilitado
+25	C$ 3.61	-0.34	2.92	-1.90	
+escudo joinvilleXescudo grêmio
+31	75	3	0	5	6	0	4	0
+palmeiras	
+MEI
+Amaral
+Provável	
+desabilitado
+15	C$ 3.59	-0.54	0.83	0.10	
+escudo flamengoXescudo palmeiras
+6	15	0	0	1	4	0	0	0
+cruzeiro	
+MEI
+Willian Farias
+Provável	
+desabilitado
+3	C$ 3.50	-0.07	0.93	2.90	
+escudo internacionalXescudo cruzeiro
+2	2	0	0	0	0	0	0	0
+figueirense	
+ZAG
+Bruno Alves
+Provável	
+desabilitado
+21	C$ 3.50	0.75	1.68	9.90	
+escudo figueirenseXescudo fluminense
+13	34	0	0	2	9	1	1	0
+avaí	
+ZAG
+Emerson
+Provável	
+desabilitado
+26	C$ 3.49	-1.57	2.28	-1.30	
+escudo corinthiansXescudo avaí
+15	64	0	0	5	7	2	2	0
+joinville	
+ZAG
+Alef
+Provável	
+desabilitado
+3	C$ 3.44	0.16	1.37	1.70	
+escudo joinvilleXescudo grêmio
+3	1	0	0	0	0	0	0	0
+figueirense	
+ATA
+Dudu
+Provável	
+desabilitado
+21	C$ 3.40	-0.20	1.75	1.60	
+escudo figueirenseXescudo fluminense
